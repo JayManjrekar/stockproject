@@ -27,12 +27,12 @@
   </style>
 </head>
 <body>
-  <h1>All-Time Low Stocks</h1>
+  <h1>Earnings</h1>
   <ul class="stock-list" id="stock-list"></ul>
 
   <script>
     // Fetch data from the API
-    fetch('https://api.example.com/all-time-low-stocks')
+    fetch('https://www.alphavantage.co/query?function=EARNINGS&symbol=IBM&apikey=6AUZD3EYT7T3U52A')
       .then(response => response.json())
       .then(data => {
         const stockList = document.getElementById('stock-list');
