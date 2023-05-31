@@ -47,17 +47,15 @@ public class StockViewController {
     @PostMapping("/simulate")
     public String simulate(Model model, @RequestParam(name="symbol1", required=false, defaultValue="AMZN") String symbol1,
                            @RequestParam(name="buyPrice1", required=false, defaultValue="34") float buyPrice1,
-                           @RequestParam(name="quantity1", required=false, defaultValue="100") String quantity1) {
+                           @RequestParam(name="quantity1", required=false, defaultValue="100") int quantity1) {
 
         //Lookup the current price of the 3 symbols in the api
         float currentPrice1 = getStockPrice(symbol1);
         model.addAttribute("currentPrice1", currentPrice1);
 
-        private float calculateProfitLoss(String symbol, float buyPrice, int quantity) {
-            float currentPrice = getStockPrice(symbol);
-            float profitLoss = (currentPrice - buyPrice) * quantity;
-            return profitLoss;
-        }
+        float profitLoss1 = calculateProfitLoss(symbol1, buyPrice1, quantity1, currentPrice1);
+        model.addAttribute("profitLoss1", profitLoss1);
+
 
 
         // float currentPrice = stockService.getCurrentPrice(symbol1);
@@ -76,8 +74,14 @@ public class StockViewController {
         return "stock/simulate";
     }
 
+
+    private float calculateProfitLoss(String symbol, float buyPrice, int quantity, float currentPrice) {
+        float profitLoss = (currentPrice - buyPrice) * quantity;
+        return profitLoss;
+    }
+
     @GetMapping("/simulate")
-    public String simulateProcess() {
+    public String displaySimulate() {
         return "stock/simulate";
     }
 
