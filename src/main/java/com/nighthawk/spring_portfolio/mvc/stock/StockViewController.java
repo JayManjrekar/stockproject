@@ -49,9 +49,18 @@ public class StockViewController {
                            @RequestParam(name="buyPrice1", required=false, defaultValue="34") float buyPrice1,
                            @RequestParam(name="quantity1", required=false, defaultValue="100") String quantity1) {
 
-        //Lookup the current price of the 3 symbols in the database
+        //Lookup the current price of the 3 symbols in the api
+        float currentPrice1 = getStockPrice(symbol1);
+        model.addAttribute("currentPrice1", currentPrice1);
 
-       // float currentPrice = stockService.getCurrentPrice(symbol1);
+        private float calculateProfitLoss(String symbol, float buyPrice, int quantity) {
+            float currentPrice = getStockPrice(symbol);
+            float profitLoss = (currentPrice - buyPrice) * quantity;
+            return profitLoss;
+        }
+
+
+        // float currentPrice = stockService.getCurrentPrice(symbol1);
 
         //Calculate profit/loss based on buyPrice, current price, and quantity
       //  float profitLoss = (currentPrice - buyPrice1) * quantity1;
@@ -81,14 +90,19 @@ public class StockViewController {
                 .method("POST", HttpRequest.BodyPublishers.ofString("{\n    \"country\": \"united states\",\n    \"symbol\": \"" +symbol + "\"\n}"))
                 .build();
         HttpResponse<String> response = null;
+        float price = -1;
         try {
             response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
             JSONObject body = (JSONObject) new JSONParser().parse(response.body());
+            String priceStr = (String) ((JSONObject)body.get("data")).get("Price");
+            price = Float.parseFloat(priceStr);
 
         } catch (IOException | InterruptedException |ParseException e) {
             throw new RuntimeException(e);
         }
         System.out.println(response.body());
+        return price;
+
     }
 
 

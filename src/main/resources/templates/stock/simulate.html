@@ -10,10 +10,11 @@
 <body>
 <th:block layout:fragment="body" th:remove="tag">
   <!-- Start of body content specific to page -->
+  <p th:text="'Stock #1 Current Price:' + ${currentPrice1}"></p>
   <div class="px-4 py-5 my-5">
     <h3 class="display-5 fw-bold">Type a Greeting</h3>
 
-    <form action="/greet" method="GET" id="greetForm">
+    <form action="/mvc/stock/simulate" method="POST" id="greetForm">
       <div>
         <label for="greetField">To whom?</label>
         <input name="name" id="greetField">
