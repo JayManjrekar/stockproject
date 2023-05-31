@@ -10,21 +10,20 @@
 <body>
 <th:block layout:fragment="body" th:remove="tag">
   <!-- Start of body content specific to page -->
-  <p th:text="'Stock #1 Current Price: $' + ${currentPrice1}"></p>
-  <p th:text="'Stock #1 Profit Loss: $' + ${profitLoss1}"></p>
 
   <div class="px-4 py-5 my-5">
-    <h3 class="display-5 fw-bold">Type a Greeting</h3>
+    <h3 class="display-5 fw-bold">Input Your Portfolio</h3>
 
     <form action="/mvc/stock/simulate" method="POST" id="greetForm">
-      <table>
+      <table style="padding:10px;">
         <tr>
           <th>Stock</th>
           <th>Quantity</th>
           <th>Buy Price</th>
+          <th>Company Name</th>
           <th>Current Price</th>
           <th>Profit/Loss</th>
-          <th>Company Name</th>
+
         </tr>
         <tr>
           <td><input type="text" name="symbol1" th:value="${symbol1}" ></td>
@@ -34,6 +33,25 @@
           <td th:text="'$' + ${currentPrice1}"></td>
           <td th:text="'$' + ${profitLoss1}"></td>
         </tr>
+
+        <tr>
+          <td><input type="text" name="symbol2" th:value="${symbol2}" ></td>
+          <td><input name="quantity2" th:value = "${quantity2}"></td>
+          <td><input name="buyPrice2"th:value = "${buyPrice2}"></td>
+          <td th:text = "${name2}"></td>
+          <td th:text="'$' + ${currentPrice2}"></td>
+          <td th:text="'$' + ${profitLoss2}"></td>
+        </tr>
+
+        <tr>
+          <td><input type="text" name="symbol3" th:value="${symbol3}" ></td>
+          <td><input name="quantity3" th:value = "${quantity3}"></td>
+          <td><input name="buyPrice3"th:value = "${buyPrice3}"></td>
+          <td th:text = "${name3}"></td>
+          <td th:text="'$' + ${currentPrice3}"></td>
+          <td th:text="'$' + ${profitLoss3}"></td>
+        </tr>
+
       </table>
       <div>
         <button>Simulate!</button>

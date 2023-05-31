@@ -47,7 +47,13 @@ public class StockViewController {
     @PostMapping("/simulate")
     public String simulate(Model model, @RequestParam(name="symbol1", required=false, defaultValue="AMZN") String symbol1,
                            @RequestParam(name="buyPrice1", required=false, defaultValue="34") float buyPrice1,
-                           @RequestParam(name="quantity1", required=false, defaultValue="100") int quantity1) {
+                           @RequestParam(name="quantity1", required=false, defaultValue="100") int quantity1,
+                           @RequestParam(name="symbol2", required=false, defaultValue="AMZN") String symbol2,
+                           @RequestParam(name="buyPrice2", required=false, defaultValue="34") float buyPrice2,
+                           @RequestParam(name="quantity2", required=false, defaultValue="100") int quantity2,
+                           @RequestParam(name="symbol3", required=false, defaultValue="AMZN") String symbol3,
+                           @RequestParam(name="buyPrice3", required=false, defaultValue="34") float buyPrice3,
+                           @RequestParam(name="quantity3", required=false, defaultValue="100") int quantity3) {
 
         //Lookup the current price of the 3 symbols in the api
         model.addAttribute("symbol1", symbol1);
@@ -61,6 +67,33 @@ public class StockViewController {
         float profitLoss1 = calculateProfitLoss(symbol1, buyPrice1, quantity1, currentPrice1);
         model.addAttribute("profitLoss1", profitLoss1);
 
+        repository.save(stock1);
+
+        model.addAttribute("symbol2", symbol2);
+        model.addAttribute("buyPrice2", buyPrice2);
+        model.addAttribute("quantity2", quantity2);
+        Stock stock2 = getStockPrice(symbol2);
+        float currentPrice2 = stock2.getCompanyPrice();
+        model.addAttribute("currentPrice2", currentPrice2);
+        model.addAttribute("name2", stock2.getCompanyName());
+
+        float profitLoss2 = calculateProfitLoss(symbol2, buyPrice2, quantity2, currentPrice2);
+        model.addAttribute("profitLoss2", profitLoss2);
+
+        repository.save(stock2);
+
+        model.addAttribute("symbol3", symbol3);
+        model.addAttribute("buyPrice3", buyPrice3);
+        model.addAttribute("quantity3", quantity3);
+        Stock stock3 = getStockPrice(symbol3);
+        float currentPrice3 = stock3.getCompanyPrice();
+        model.addAttribute("currentPrice3", currentPrice3);
+        model.addAttribute("name3", stock3.getCompanyName());
+
+        float profitLoss3 = calculateProfitLoss(symbol3, buyPrice3, quantity3, currentPrice3);
+        model.addAttribute("profitLoss3", profitLoss3);
+
+        repository.save(stock3);
 
         return "stock/simulate";
     }
