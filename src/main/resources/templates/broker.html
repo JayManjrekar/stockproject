@@ -1,0 +1,27 @@
+<!-- Start of body content specific to page -->
+
+<script>
+    // Sample data for demonstration purposes
+    var stocks = [
+      { company: "Tesla", symbol: "TSLA", lowestPrice: 100.50, date: "2021-01-01" },
+      { company: "ABC Corporation", symbol: "ABC", lowestPrice: 8.75, date: "2022-03-15" },
+      { company: "AI", symbol: "AI", lowestPrice: 112.20, date: "2020-09-30" },
+      // Add more stocks here...
+    ];
+    
+    // Sort stocks by lowest price in ascending order
+    stocks.sort(function(a, b) {
+      return a.lowestPrice - b.lowestPrice;
+    });
+    
+    // Display stocks in the table
+    var table = document.getElementById("stockTable");
+    
+    stocks.forEach(function(stock) {
+      var row = table.insertRow();
+      row.insertCell().textContent = stock.company;
+      row.insertCell().textContent = stock.symbol;
+      row.insertCell().textContent = stock.lowestPrice.toFixed(2);
+      row.insertCell().textContent = stock.date;
+    });
+  </script>
