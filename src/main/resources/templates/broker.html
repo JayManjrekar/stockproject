@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Counter Feature</title>
+</head>
+<body>
+    <h1>JavaScript Counter Feature</h1>
+    <p id="counterValue">0</p>
+    <button type="button" onclick="incrementCounter()">Click to increment</button>
+
+    <script>
+        var counter = 0;
+
+        function incrementCounter() {
+            counter++;
+            document.getElementById('counterValue').innerHTML = counter;
+        }
+    </script>
+</body>
+</html>
