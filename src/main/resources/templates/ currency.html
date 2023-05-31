@@ -1,0 +1,126 @@
+<!-- This page is illustrative and contains ideas about HTML formatting -->
+<!DOCTYPE HTML>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layouts/base}" lang="en">
+
+<head>
+    <!-- Page specific head additions -->
+  
+    </div>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>replit</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+      
+      <script>
+      
+      function sub()
+      
+        {
+      var cur1= document.getElementById("currency").value;
+        var amount= document.getElementById("amount").value;
+      
+          var cur2= document.getElementById("currency2").value;
+       
+        
+          api(cur1,amount,cur2,);
+      
+        }
+      
+       
+        
+      
+      
+        function api(a,b,c){
+          var cur=c;
+          const uppercur=cur.toUpperCase();
+         
+       fetch("https://exchangerate-api.p.rapidapi.com/rapid/latest/"+a,
+            
+             {
+      
+      method: 'GET',
+          headers: {
+              'X-RapidAPI-Host': 'exchangerate-api.p.rapidapi.com',
+              'X-RapidAPI-Key': 'a53d1a4acemsh90db192dc27d5f7p1028a2jsn2e483944f85c'
+          }
+      
+               
+             }
+            
+            
+            ) 
+      
+          .then(resp => resp.json()) 
+         // resp.json() gives list of one dictionary
+       //.then(data=> document.getElementById("fa").innerHTML= data.rates[c] )
+      
+        .then(data => x=data.rates[cur])
+          //.catch(err => console.error(err));
+          
+      
+        var numby=b;
+      //const uppercur=cur.toUpperCase();
+         
+         
+       var final= numby*x;
+      
+         // alert(final);
+         document.getElementById("evo").innerHTML = "amount: " + final+" "+cur;
+          
+        }
+      
+      
+      
+        
+      </script>
+      
+      
+      
+      
+      </head>
+      
+      
+      <h1>Currency converter</h1> 
+        
+        
+       
+        
+      <body>
+      
+        <br> 
+        <input id="amount"  placeholder="enter your money amount">
+        <br>
+        
+      <input id="currency"  placeholder="enter your currency">
+      <br> 
+       <br>  
+         
+        <br>
+        
+      <input id="currency2"  placeholder="Add the currency you want to convert to">
+        <br> 
+       <br> 
+        <br> 
+       <br> 
+       <button onclick="sub()" class=out id= "button">convert</button> 
+      
+      <br>
+        <br>
+      
+        
+      <br>
+      
+        <h5 id="evo"> Total Amount: </h5> 
+        <br>
+      </body>
+      
+      
+        
+      </html>
+
+</th:block>
+</body>
