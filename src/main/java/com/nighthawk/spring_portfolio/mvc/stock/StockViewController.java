@@ -50,26 +50,17 @@ public class StockViewController {
                            @RequestParam(name="quantity1", required=false, defaultValue="100") int quantity1) {
 
         //Lookup the current price of the 3 symbols in the api
-        float currentPrice1 = getStockPrice(symbol1);
+        model.addAttribute("symbol1", symbol1);
+        model.addAttribute("buyPrice1", buyPrice1);
+        model.addAttribute("quantity1", quantity1);
+        Stock stock1 = getStockPrice(symbol1);
+        float currentPrice1 = stock1.getCompanyPrice();
         model.addAttribute("currentPrice1", currentPrice1);
+        model.addAttribute("name1", stock1.getCompanyName());
 
         float profitLoss1 = calculateProfitLoss(symbol1, buyPrice1, quantity1, currentPrice1);
         model.addAttribute("profitLoss1", profitLoss1);
 
-
-
-        // float currentPrice = stockService.getCurrentPrice(symbol1);
-
-        //Calculate profit/loss based on buyPrice, current price, and quantity
-      //  float profitLoss = (currentPrice - buyPrice1) * quantity1;
-
-        //Save the profit/loss amounts to the model, so it goes to the html
-       // model.addAttribute("profitLoss", profitLoss);
-
-        //Calculate profit/loss based on buyPrice, current price, and quantity
-
-        //Save the profit/loss amounts to the model, so it goes to the html
-        // e.g. model.addAttribute("profit1", profit1);
 
         return "stock/simulate";
     }
@@ -85,7 +76,7 @@ public class StockViewController {
         return "stock/simulate";
     }
 
-    private float getStockPrice(String symbol){
+    private Stock getStockPrice(String symbol){
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create("https://investing4.p.rapidapi.com/stock/overview"))
                 .header("content-type", "application/json")
@@ -94,18 +85,23 @@ public class StockViewController {
                 .method("POST", HttpRequest.BodyPublishers.ofString("{\n    \"country\": \"united states\",\n    \"symbol\": \"" +symbol + "\"\n}"))
                 .build();
         HttpResponse<String> response = null;
-        float price = -1;
+        Stock stock = new Stock();
         try {
             response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
             JSONObject body = (JSONObject) new JSONParser().parse(response.body());
             String priceStr = (String) ((JSONObject)body.get("data")).get("Price");
-            price = Float.parseFloat(priceStr);
+            float price = Float.parseFloat(priceStr);
+            String name = (String) ((JSONObject)body.get("data")).get("Name");
+            stock.setCompanyPrice(price);
+            stock.setSymbol(symbol);
+            stock.setCompanyName(name);
+
 
         } catch (IOException | InterruptedException |ParseException e) {
             throw new RuntimeException(e);
         }
         System.out.println(response.body());
-        return price;
+        return stock;
 
     }
 

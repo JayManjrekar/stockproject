@@ -17,11 +17,26 @@
     <h3 class="display-5 fw-bold">Type a Greeting</h3>
 
     <form action="/mvc/stock/simulate" method="POST" id="greetForm">
+      <table>
+        <tr>
+          <th>Stock</th>
+          <th>Quantity</th>
+          <th>Buy Price</th>
+          <th>Current Price</th>
+          <th>Profit/Loss</th>
+          <th>Company Name</th>
+        </tr>
+        <tr>
+          <td><input type="text" name="symbol1" th:value="${symbol1}" ></td>
+          <td><input name="quantity1" th:value = "${quantity1}"></td>
+          <td><input name="buyPrice1"th:value = "${buyPrice1}"></td>
+          <td th:text = "${name1}"></td>
+          <td th:text="'$' + ${currentPrice1}"></td>
+          <td th:text="'$' + ${profitLoss1}"></td>
+        </tr>
+      </table>
       <div>
-        <label for="greetField">To whom?</label>
-        <input name="name" id="greetField">
-        <button>Greetings!</button>
-        <p th:text="'Greetings, ' + ${name} + '!'"></p>
+        <button>Simulate!</button>
       </div>
     </form>
   </div>
