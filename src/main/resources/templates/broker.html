@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lowest Stocks of All Time</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Lowest Stocks of All Time</h1>
+  
+  <table id="stockTable">
+    <tr>
+      <th>Company</th>
+      <th>Symbol</th>
+      <th>Lowest Price</th>
+      <th>Date</th>
+    </tr>
+  </table>
+  
+  <script>
+    // Sample data for demonstration purposes
+    var stocks = [
+      { company: "Tesla", symbol: "TSLA", lowestPrice: 100.50, date: "2021-01-01" },
+      { company: "ABC Corporation", symbol: "ABC", lowestPrice: 8.75, date: "2022-03-15" },
+      { company: "AI", symbol: "AI", lowestPrice: 112.20, date: "2020-09-30" },
+      // Add more stocks here...
+    ];
+    
+    // Sort stocks by lowest price in ascending order
+    stocks.sort(function(a, b) {
+      return a.lowestPrice - b.lowestPrice;
+    });
+    
+    // Display stocks in the table
+    var table = document.getElementById("stockTable");
+    
+    stocks.forEach(function(stock) {
+      var row = table.insertRow();
+      row.insertCell().textContent = stock.company;
+      row.insertCell().textContent = stock.symbol;
+      row.insertCell().textContent = stock.lowestPrice.toFixed(2);
+      row.insertCell().textContent = stock.date;
+    });
+  </script>
+</body>
+</html>
