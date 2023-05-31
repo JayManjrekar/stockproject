@@ -1,6 +1,9 @@
 package com.nighthawk.spring_portfolio.mvc.stock;
 
 import com.nighthawk.spring_portfolio.mvc.person.Person;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -8,6 +11,11 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.util.List;
 
 // Built using article: https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html
@@ -64,7 +72,24 @@ public class StockViewController {
         return "stock/simulate";
     }
 
+    private float getStockPrice(String symbol){
+        HttpRequest request = HttpRequest.newBuilder()
+                .uri(URI.create("https://investing4.p.rapidapi.com/stock/overview"))
+                .header("content-type", "application/json")
+                .header("X-RapidAPI-Key", "39c4bf8c2emsh30b02ab6dc01dd9p13f427jsn690a650cf2ec")
+                .header("X-RapidAPI-Host", "investing4.p.rapidapi.com")
+                .method("POST", HttpRequest.BodyPublishers.ofString("{\n    \"country\": \"united states\",\n    \"symbol\": \"" +symbol + "\"\n}"))
+                .build();
+        HttpResponse<String> response = null;
+        try {
+            response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
+            JSONObject body = (JSONObject) new JSONParser().parse(response.body());
 
+        } catch (IOException | InterruptedException |ParseException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println(response.body());
+    }
 
 
 
