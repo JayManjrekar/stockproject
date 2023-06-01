@@ -20,4 +20,15 @@ Total hours worked: 5 hours
 
 Pranav: API Integration: Integrating third-party APIs provided by Rapid API into your web applications or mobile apps. This involves making API requests, handling responses, and processing data received from different APIs. Performance Optimization: Optimizing API calls by minimizing redundant requests, caching responses, and implementing appropriate data fetching strategies to enhance the overall performance and responsiveness of your application. Used postman to test end points.
 
-<img width="443" alt="Screen Shot 2023-06-01 at 10 39 05 AM" src="https://github.com/JayManjrekar/stockproject/assets/89176673/d0cf8784-1ded-4362-99d9-2743a583ce65">
+<img width="442" alt="Screen Shot 2023-06-01 at 10 39 36 AM" src="https://github.com/JayManjrekar/stockproject/assets/89176673/24864f8b-639e-47d9-899f-138b12bc4906">
+
+Total hours worked: 5 hours
+
+Gabe: Assisted with backend and boostrap styling. 
+
+
+
+
+
+Group Total: 23 hours worked 
+
