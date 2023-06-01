@@ -1133,4 +1133,293 @@ FGBI	First Guaranty Bancshares, Inc.	Banks - Regional	146.83M
 FGEN	FibroGen, Inc.	Biotechnology	1.71B
 FGF	FG Financial Group, Inc.	Insurance - Diversified	16.52M
 FGH	FG Group Holdings Inc.	Leisure	36.41M
+FGI	FGI Industries Ltd.	Furnishings, Fixtures & Appliances	16.44M
+FGMC	FG Merger Corp.	Shell Companies	106.76M
+FHB	First Hawaiian, Inc.	Banks - Regional	2.20B
+FHI	Federated Hermes, Inc.	Asset Management	3.14B
+FHLT	Future Health ESG Corp.	Shell Companies	67.30M
+FHN	First Horizon Corporation	Banks - Regional	5.61B
+FHTX	Foghorn Therapeutics Inc.	Biotechnology	261.82M
+FIAC	Focus Impact Acquisition Corp.	Shell Companies	302.16M
+FIBK	First Interstate BancSystem, Inc.	Banks - Regional	2.39B
+FICO	Fair Isaac Corporation	Software - Application	19.85B
+FICV	Frontier Investment Corp	Shell Companies	258.75M
+FIGS	FIGS, Inc.	Apparel Manufacturing	1.35B
+FINV	FinVolution Group	Credit Services	1.12B
+FINW	FinWise Bancorp	Banks - Regional	103.64M
+FIP	FTAI Infrastructure Inc.	Conglomerates	347.06M
+FIS	Fidelity National Information Services, Inc.	Information Technology Services	32.88B
+FISI	Financial Institutions, Inc.	Banks - Regional	245.09M
+FISV	Fiserv, Inc.	Information Technology Services	69.53B
+FITB	Fifth Third Bancorp	Banks - Regional	17.01B
+FIVE	Five Below, Inc.	Specialty Retail	9.29B
+FIVN	Five9, Inc.	Software - Infrastructure	4.77B
+FIX	Comfort Systems USA, Inc.	Engineering & Construction	5.27B
+FIXX	Homology Medicines, Inc.	Biotechnology	56.64M
+FIZZ	National Beverage Corp.	Beverages - Non-Alcoholic	4.58B
+FKWL	Franklin Wireless Corp.	Communication Equipment	42.16M
+FL	Foot Locker, Inc.	Apparel Retail	2.33B
+FLAG	First Light Acquisition Group, Inc.	Shell Companies	102.83M
+FLEX	Flex Ltd.	Electronic Components	11.39B
+FLFV	Feutune Light Acquisition Corporation	Shell Companies	134.16M
+FLGC	Flora Growth Corp.	Drug Manufacturers - Specialty & Generic	31.79M
+FLGT	Fulgent Genetics, Inc.	Diagnostics & Research	1.21B
+FLIC	The First of Long Island Corporation	Banks - Regional	236.61M
+FLJ	FLJ Group Limited	Real Estate Services	274.26M
+FLL	Full House Resorts, Inc.	Resorts & Casinos	235.95M
+FLME	Flame Acquisition Corp.	Shell Companies	159.01M
+FLNC	Fluence Energy, Inc.	Utilities - Renewable	4.32B
+FLNG	FLEX LNG Ltd.	Oil & Gas Midstream	1.63B
+FLNT	Fluent, Inc.	Advertising Agencies	51.64M
+FLO	Flowers Foods, Inc.	Packaged Foods	5.27B
+FLR	Fluor Corporation	Engineering & Construction	3.83B
+FLS	Flowserve Corporation	Specialty Industrial Machinery	4.33B
+FLT	FLEETCOR Technologies, Inc.	Software - Infrastructure	16.92B
+FLUX	Flux Power Holdings, Inc.	Electrical Equipment & Parts	58.00M
+FLWS	1-800-FLOWERS.COM, Inc.	Specialty Retail	521.77M
+FLXS	Flexsteel Industries, Inc.	Furnishings, Fixtures & Appliances	96.64M
+FLYW	Flywire Corporation	Information Technology Services	3.35B
+FMAO	Farmers & Merchants Bancorp, Inc.	Banks - Regional	272.19M
+FMBH	First Mid Bancshares, Inc.	Banks - Regional	504.50M
+FMC	FMC Corporation	Agricultural Inputs	13.09B
+FMIV	Forum Merger IV Corporation	Shell Companies	162.05M
+FMNB	Farmers National Banc Corp.	Banks - Regional	444.56M
+FMS	Fresenius Medical Care AG & Co. KGaA	Medical Care Facilities	12.66B
+FMX	Fomento Económico Mexicano, SAB de CV	Beverages - Brewers	181.48B
+FN	Fabrinet	Electronic Components	4.07B
+FNA	Paragon 28, Inc.	Medical Devices	1.49B
+FNB	F.N.B. Corporation	Banks - Regional	4.03B
+FNCB	FNCB Bancorp, Inc.	Banks - Regional	112.00M
+FNCH	Finch Therapeutics Group, Inc.	Biotechnology	13.68M
+FND	Floor & Decor Holdings, Inc.	Home Improvement Retail	9.81B
+FNF	Fidelity National Financial, Inc.	Insurance - Specialty	9.30B
+FNGR	FingerMotion, Inc.	Telecom Services	82.15M
+FNKO	Funko, Inc.	Leisure	622.98M
+FNLC	The First Bancorp, Inc.	Banks - Regional	265.11M
+FNV	Franco-Nevada Corporation	Gold	28.59B
+FNVT	Finnovate Acquisition Corp.	Shell Companies	95.86M
+FNWB	First Northwest Bancorp	Banks - Regional	110.02M
+FNWD	Finward Bancorp	Banks - Regional	93.91M
+FOA	Finance Of America Companies Inc.	Credit Services	125.84M
+FOCS	Focus Financial Partners Inc.	Asset Management	4.09B
+FOLD	Amicus Therapeutics, Inc.	Biotechnology	3.26B
+FONR	FONAR Corporation	Medical Devices	111.80M
+FOR	Forestar Group Inc.	Real Estate - Development	1.03B
+FORA	Forian Inc.	Health Information Services	76.90M
+FORD	Forward Industries, Inc.	Footwear & Accessories	10.66M
+FORG	ForgeRock, Inc.	Software - Infrastructure	1.75B
+FORL	Four Leaf Acquisition Corporation	Shell Companies	71.28M
+FORM	FormFactor, Inc.	Semiconductors	2.43B
+FORR	Forrester Research, Inc.	Consulting Services	557.47M
+FORTY	Formula Systems (1985) Ltd.	Information Technology Services	1.09B
+FOSL	Fossil Group, Inc.	Luxury Goods	111.62M
+FOUR	Shift4 Payments, Inc.	Software - Infrastructure	5.40B
+FOX	Fox Corporation	Entertainment	15.40B
+FOXA	Fox Corporation	Entertainment	15.34B
+FOXF	Fox Factory Holding Corp.	Auto Parts	3.78B
+FOXO	FOXO Technologies Inc.	Health Information Services	11.59M
+FPAY	FlexShopper, Inc.	Rental & Leasing Services	25.09M
+FPH	Five Point Holdings, LLC	Real Estate - Development	348.87M
+FPI	Farmland Partners Inc.	REIT - Specialty	600.03M
+FR	First Industrial Realty Trust, Inc.	REIT - Industrial	6.83B
+FRAF	Franklin Financial Services Corporation	Banks - Regional	114.67M
+FRBA	First Bank	Banks - Regional	201.88M
+FRBK	Republic First Bancorp, Inc.	Banks - Regional	78.24M
+FRBN	Forbion European Acquisition Corp.	Shell Companies	227.51M
+FRD	Friedman Industries, Incorporated	Steel	70.55M
+FREE	Whole Earth Brands, Inc.	Packaged Foods	118.50M
+FREQ	Frequency Therapeutics, Inc.	Biotechnology	12.87M
+FRES	Fresh2 Group Ltd.	Biotechnology	26.97M
+FREY	FREYR Battery	Electrical Equipment & Parts	1.03B
+FRG	Franchise Group, Inc.	Specialty Retail	1.02B
+FRGE	Forge Global Holdings, Inc.	Software - Application	269.76M
+FRGI	Fiesta Restaurant Group, Inc.	Restaurants	188.70M
+FRGT	Freight Technologies, Inc.	Software - Application	11.36M
+FRHC	Freedom Holding Corp.	Capital Markets	4.91B
+FRLA	Fortune Rise Acquisition Corporation	Shell Companies	89.94M
+FRLN	Freeline Therapeutics Holdings plc	Biotechnology	11.12M
+FRME	First Merchants Corporation	Banks - Regional	1.60B
+FRO	Frontline Ltd.	Oil & Gas Midstream	3.30B
+FROG	JFrog Ltd.	Software - Application	2.44B
+FRPH	FRP Holdings, Inc.	Real Estate Services	528.88M
+FRPT	Freshpet, Inc.	Packaged Foods	2.92B
+FRSH	Freshworks Inc.	Software - Application	4.48B
+FRST	Primis Financial Corp.	Banks - Regional	187.11M
+FRSX	Foresight Autonomous Holdings Ltd.	Auto Parts	24.01M
+FRT	Federal Realty Investment Trust	REIT - Retail	7.15B
+FRTX	Fresh Tracks Therapeutics, Inc.	Biotechnology	3.19M
+FRXB	Forest Road Acquisition Corp. II	Shell Companies	133.97M
+FRZA	Forza X1, Inc.	Recreational Vehicles	12.80M
+FSBC	Five Star Bancorp	Banks - Regional	338.79M
+FSBW	FS Bancorp, Inc.	Banks - Regional	226.57M
+FSEA	First Seacoast Bancorp	Banks - Regional	40.60M
+FSFG	First Savings Financial Group, Inc.	Banks - Regional	86.85M
+FSI	Flexible Solutions International, Inc.	Specialty Chemicals	36.31M
+FSK	FS KKR Capital Corp.	Asset Management	5.49B
+FSLR	First Solar, Inc.	Solar	22.24B
+FSLY	Fastly, Inc.	Software - Application	2.06B
+FSM	Fortuna Silver Mines Inc.	Silver	1.03B
+FSNB	Fusion Acquisition Corp. II	Shell Companies	175.19M
+FSP	Franklin Street Properties Corp.	REIT - Office	146.60M
+FSR	Fisker Inc.	Auto Manufacturers	2.03B
+FSRX	FinServ Acquisition Corp. II	Shell Companies	135.24M
+FSS	Federal Signal Corporation	Pollution & Treatment Controls	3.29B
+FSTR	L.B. Foster Company	Railroads	148.43M
+FSV	FirstService Corporation	Real Estate Services	6.53B
+FTAI	Fortress Transportation and Infrastructure Investors LLC	Rental & Leasing Services	2.85B
+FTCH	Farfetch Limited	Internet Retail	1.97B
+FTCI	FTC Solar, Inc.	Solar	309.95M
+FTDR	Frontdoor, Inc.	Personal Services	2.58B
+FTEK	Fuel Tech, Inc.	Pollution & Treatment Controls	42.11M
+FTFT	Future FinTech Group Inc.	Software - Application	20.65M
+FTHM	Fathom Holdings Inc.	Real Estate Services	113.67M
+FTI	TechnipFMC plc	Oil & Gas Equipment & Services	6.14B
+FTII	FutureTech II Acquisition Corp.	Shell Companies	159.85M
+FTK	Flotek Industries, Inc.	Oil & Gas Equipment & Services	54.69M
+FTNT	Fortinet, Inc.	Software - Infrastructure	53.57B
+FTS	Fortis Inc.	Utilities - Regulated Electric	20.52B
+FTV	Fortive Corporation	Scientific & Technical Instruments	23.00B
+FUBO	fuboTV Inc.	Broadcasting	483.01M
+FUL	H.B. Fuller Company	Specialty Chemicals	3.42B
+FULC	Fulcrum Therapeutics, Inc.	Biotechnology	176.94M
+FULT	Fulton Financial Corporation	Banks - Regional	1.92B
+FUN	Cedar Fair, L.P.	Leisure	2.29B
+FUNC	First United Corporation	Banks - Regional	88.29M
+FURY	Fury Gold Mines Limited	Other Industrial Metals & Mining	65.15M
+FUSB	First US Bancshares, Inc.	Banks - Regional	42.93M
+FUSN	Fusion Pharmaceuticals Inc.	Biotechnology	321.15M
+FUTU	Futu Holdings Limited	Capital Markets	5.41B
+FUV	Arcimoto, Inc.	Recreational Vehicles	11.59M
+FVCB	FVCBankcorp, Inc.	Banks - Regional	180.76M
+FVRR	Fiverr International Ltd.	Internet Content & Information	991.83M
+FWAC	Fifth Wall Acquisition Corp. III	Shell Companies	387.04M
+FWBI	First Wave BioPharma, Inc.	Biotechnology	3.46M
+FWONA	Formula One Group	Entertainment	16.56B
+FWRD	Forward Air Corporation	Integrated Freight & Logistics	2.54B
+FWRG	First Watch Restaurant Group, Inc.	Restaurants	1.06B
+FXCO	Financial Strategies Acquisition Corp.	Shell Companies	70.07M
+FXLV	F45 Training Holdings Inc.	Leisure	98.29M
+FXNC	First National Corporation	Banks - Regional	97.28M
+FYBR	Frontier Communications Parent, Inc.	Telecom Services	3.65B
+FZT	FAST Acquisition Corp. II	Shell Companies	131.64M
+G	Genpact Limited	Information Technology Services	6.80B
+GABC	German American Bancorp, Inc.	Banks - Regional	832.04M
+GAIA	Gaia, Inc.	Entertainment	50.86M
+GAIN	Gladstone Investment Corporation	Asset Management	436.35M
+GALT	Galectin Therapeutics Inc.	Biotechnology	97.12M
+GAMB	Gambling.com Group Limited	Gambling	382.71M
+GAMC	Golden Arrow Merger Corp.	Shell Companies	94.41M
+GAME	Engine Gaming and Media, Inc.	Electronic Gaming & Multimedia	49.41M
+GAN	GAN Limited	Gambling	57.19M
+GANX	Gain Therapeutics, Inc.	Biotechnology	58.81M
+GAQ	Generation Asia I Acquisition Limited	Shell Companies	306.77M
+GASS	StealthGas Inc.	Marine Shipping	118.90M
+GATE	Marblegate Acquisition Corp.	Shell Companies	124.44M
+GATO	Gatos Silver, Inc.	Other Precious Metals & Mining	327.48M
+GATX	GATX Corporation	Rental & Leasing Services	4.24B
+GAU	Galiano Gold Inc.	Gold	136.13M
+GB	Global Blue Group Holding AG	Software - Infrastructure	987.25M
+GBBK	Global Blockchain Acquisition Corp.	Shell Companies	228.27M
+GBCI	Glacier Bancorp, Inc.	Banks - Regional	3.29B
+GBDC	Golub Capital BDC, Inc.	Asset Management	2.22B
+GBIO	Generation Bio Co.	Biotechnology	235.12M
+GBLI	Global Indemnity Group, LLC	Insurance - Property & Casualty	373.42M
+GBNH	Greenbrook TMS Inc.	Medical Care Facilities	26.74M
+GBNY	Generations Bancorp NY, Inc.	Banks - Regional	19.90M
+GBR	New Concept Energy, Inc.	Real Estate Services	4.72M
+GBTG	Global Business Travel Group, Inc.	Software - Application	3.34B
+GBX	The Greenbrier Companies, Inc.	Railroads	881.87M
+GCBC	Greene County Bancorp, Inc.	Banks - Regional	454.10M
+GCI	Gannett Co., Inc.	Publishing	331.54M
+GCMG	Grosvenor Capital Management, L.P.	Asset Management	1.30B
+GCO	Genesco Inc.	Apparel Retail	233.30M
+GCT	GigaCloud Technology Inc.	Software - Infrastructure	276.65M
+GCTK	GlucoTrack, Inc.	Medical Instruments & Supplies	8.75M
+GD	General Dynamics Corporation	Aerospace & Defense	56.24B
+GDC	GD Culture Group Limited	Electronic Gaming & Multimedia	10.09M
+GDDY	GoDaddy Inc.	Software - Infrastructure	11.49B
+GDEN	Golden Entertainment, Inc.	Resorts & Casinos	1.26B
+GDHG	Golden Heaven Group Holdings Ltd.	null	210.50M
+GDNR	Gardiner Healthcare Acquisitions Corp.	Shell Companies	43.50M
+GDOT	Green Dot Corporation	Credit Services	961.95M
+GDRX	GoodRx Holdings, Inc.	Health Information Services	2.14B
+GDS	GDS Holdings Limited	Information Technology Services	2.03B
+GDST	Goldenstone Acquisition Limited	Shell Companies	79.76M
+GDTC	CytoMed Therapeutics Limited	Biotechnology	31.94M
+GDYN	Grid Dynamics Holdings, Inc.	Information Technology Services	693.54M
+GE	General Electric Company	Specialty Industrial Machinery	114.26B
+GECC	Great Elm Capital Corp.	Asset Management	60.70M
+GEF	Greif, Inc.	Packaging & Containers	3.04B
+GEF.B	Greif, Inc.	Packaging & Containers	3.07B
+GEG	Great Elm Group, Inc.	Medical Distribution	63.74M
+GEHC	GE HealthCare Technologies Inc.	Health Information Services	36.35B
+GEHI	Gravitas Education Holdings, Inc.	Education & Training Services	19.17M
+GEL	Genesis Energy, L.P.	Oil & Gas Midstream	1.20B
+GEN	Gen Digital Inc.	Software - Infrastructure	11.28B
+GENC	Gencor Industries, Inc.	Farm & Heavy Construction Machinery	213.20M
+GENE	Genetic Technologies Limited	Diagnostics & Research	18.08M
+GENI	Genius Sports Limited	Internet Content & Information	1.19B
+GENQ	Genesis Unicorn Capital Corp.	Shell Companies	86.58M
+GEO	The GEO Group, Inc.	Security & Protection Services	952.11M
+GEOS	Geospace Technologies Corporation	Oil & Gas Equipment & Services	104.32M
+GERN	Geron Corporation	Biotechnology	1.72B
+GES	Guess', Inc.	Apparel Retail	1.06B
+GETR	Getaround, Inc.	Software - Application	52.86M
+GETY	Getty Images Holdings, Inc.	Internet Content & Information	1.85B
+GEVO	Gevo, Inc.	Specialty Chemicals	326.21M
+GFAI	Guardforce AI Co., Limited	Security & Protection Services	39.92M
+GFF	Griffon Corporation	Conglomerates	1.86B
+GFGD	The Growth for Good Acquisition Corporation	Shell Companies	336.57M
+GFI	Gold Fields Limited	Gold	14.11B
+GFL	GFL Environmental Inc.	Waste Management	13.49B
+GFOR	Graf Acquisition Corp. IV	Shell Companies	220.10M
+GFS	GLOBALFOUNDRIES Inc.	Semiconductors	32.48B
+GFX	Golden Falcon Acquisition Corp.	Shell Companies	130.26M
+GGAA	Genesis Growth Tech Acquisition Corp.	Shell Companies	352.88M
+GGAL	Grupo Financiero Galicia S.A.	Banks - Regional	3.56B
+GGB	Gerdau S.A.	Steel	8.44B
+GGE	Green Giant Inc.	Real Estate - Development	125.67M
+GGG	Graco Inc.	Specialty Industrial Machinery	13.00B
+GGR	Gogoro Inc.	Auto Parts	727.70M
+GH	Guardant Health, Inc.	Diagnostics & Research	3.69B
+GHC	Graham Holdings Company	Education & Training Services	2.69B
+GHG	GreenTree Hospitality Group Ltd.	Lodging	431.09M
+GHI	Greystone Housing Impact Investors LP	Mortgage Finance	359.27M
+GHIX	Gores Holdings IX, Inc.	Shell Companies	670.03M
+GHL	Greenhill & Co., Inc.	Capital Markets	272.45M
+GHLD	Guild Holdings Company	Mortgage Finance	652.92M
+GHM	Graham Corporation	Specialty Industrial Machinery	119.46M
+GHRS	GH Research PLC	Biotechnology	585.23M
+GHSI	Guardion Health Sciences, Inc.	Drug Manufacturers - Specialty & Generic	7.74M
+GIA	GigCapital5, Inc.	Shell Companies	101.28M
+GIB	CGI Inc.	Information Technology Services	24.54B
+GIC	Global Industrial Company	Industrial Distribution	962.21M
+GIFI	Gulf Island Fabrication, Inc.	Metal Fabrication	52.49M
+GIGM	GigaMedia Limited	Electronic Gaming & Multimedia	15.80M
+GIII	G-III Apparel Group, Ltd.	Apparel Manufacturing	737.21M
+GIL	Gildan Activewear Inc.	Apparel Manufacturing	4.91B
+GILD	Gilead Sciences, Inc.	Drug Manufacturers - General	95.20B
+GILT	Gilat Satellite Networks Ltd.	Communication Equipment	297.24M
+GIPR	Generation Income Properties, Inc.	REIT - Diversified	10.65M
+GIS	General Mills, Inc.	Packaged Foods	49.50B
+GKOS	Glaukos Corporation	Medical Devices	2.80B
+GL	Globe Life Inc.	Insurance - Life	9.91B
+GLAD	Gladstone Capital Corporation	Asset Management	353.11M
+GLBE	Global-e Online Ltd.	Internet Retail	5.76B
+GLBS	Globus Maritime Limited	Marine Shipping	19.45M
+GLBZ	Glen Burnie Bancorp	Banks - Regional	24.39M
+GLDD	Great Lakes Dredge & Dock Corporation	Engineering & Construction	455.28M
+GLDG	GoldMining Inc.	Gold	174.95M
+GLG	TD Holdings, Inc.	Other Industrial Metals & Mining	98.01M
+GLLI	Globalink Investment Inc.	Shell Companies	86.14M
+GLMD	Galmed Pharmaceuticals Ltd.	Biotechnology	8.23M
+GLNG	Golar LNG Limited	Oil & Gas Midstream	2.27B
+GLOB	Globant S.A.	Information Technology Services	7.88B
+GLOP	GasLog Partners LP	Oil & Gas Midstream	442.34M
+GLP	Global Partners LP	Oil & Gas Midstream	1.01B
+GLPG	Galapagos NV	Biotechnology	2.69B
+GLPI	Gaming and Leisure Properties, Inc.	REIT - Specialty	12.80B
+GLRE	Greenlight Capital Re, Ltd.	Insurance - Reinsurance	339.05M
+GLSI	Greenwich LifeSciences, Inc.	Biotechnology	140.50M
+
 
