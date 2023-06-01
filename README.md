@@ -2536,4 +2536,98 @@ HPK	HighPeak Energy, Inc.	Oil & Gas E&P	1.44B
 HPLT	Home Plate Acquisition Corp.	Shell Companies	73.60M
 HPP	Hudson Pacific Properties, Inc.	REIT - Office	1.31B
 HPQ	HP Inc.
-
+IMCR	Immunocore Holdings plc	Biotechnology	2.68B
+IMGN	ImmunoGen, Inc.	Biotechnology	3.16B
+IMKTA	Ingles Markets, Incorporated	Grocery Stores	1.53B
+IMMP	Immutep Limited	Biotechnology	176.74M
+IMMR	Immersion Corporation	Software - Application	236.60M
+IMMX	Immix Biopharma, Inc.	Biotechnology	30.67M
+IMNM	Immunome, Inc.	Biotechnology	66.21M
+IMNN	Imunon, Inc.	Biotechnology	11.01M
+IMO	Imperial Oil Limited	Oil & Gas Integrated	27.25B
+IMOS	ChipMOS TECHNOLOGIES INC.	Semiconductors	950.87M
+IMPL	Impel Pharmaceuticals Inc.	Biotechnology	32.06M
+IMPP	Imperial Petroleum Inc.	Oil & Gas E&P	57.40M
+IMRN	Immuron Limited	Biotechnology	12.21M
+IMRX	Immuneering Corporation	Biotechnology	249.35M
+IMTE	Integrated Media Technology Limited	Electronic Components	10.32M
+IMTX	Immatics N.V.	Biotechnology	768.25M
+IMUX	Immunic, Inc.	Biotechnology	73.31M
+IMVT	Immunovant, Inc.	Biotechnology	2.71B
+IMXI	International Money Express, Inc.	Software - Infrastructure	862.75M
+INAB	IN8bio, Inc.	Biotechnology	93.72M
+INAQ	Insight Acquisition Corp.	Shell Companies	91.05M
+INBK	First Internet Bancorp	Banks - Regional	111.85M
+INBS	Intelligent Bio Solutions Inc.	Diagnostics & Research	4.75M
+INBX	Inhibrx, Inc.	Biotechnology	1.09B
+INCR	InterCure Ltd.	Drug Manufacturers - Specialty & Generic	91.44M
+INCY	Incyte Corporation	Biotechnology	13.79B
+INDB	Independent Bank Corp.	Banks - Regional	2.01B
+INDI	indie Semiconductor, Inc.	Semiconductor Equipment & Materials	1.33B
+INDO	Indonesia Energy Corporation Limited	Oil & Gas E&P	46.75M
+INDP	Indaptus Therapeutics, Inc.	Biotechnology	14.70M
+INDT	INDUS Realty Trust, Inc.	Real Estate Services	681.74M
+INFA	Informatica Inc.	Software - Infrastructure	5.09B
+INFI	Infinity Pharmaceuticals, Inc.	Biotechnology	16.53M
+INFN	Infinera Corporation	Communication Equipment	1.09B
+INFU	InfuSystem Holdings, Inc.	Medical Instruments & Supplies	189.85M
+INFY	Infosys Limited	Information Technology Services	65.50B
+ING	ING Groep N.V.	Banks - Diversified	45.38B
+INGN	Inogen, Inc.	Medical Devices	248.09M
+INGR	Ingredion Incorporated	Packaged Foods	6.95B
+INKT	MiNK Therapeutics, Inc.	Biotechnology	61.96M
+INLX	Intellinetics, Inc.	Software - Application	17.11M
+INM	InMed Pharmaceuticals Inc.	Biotechnology	4.56M
+INMB	INmune Bio, Inc.	Biotechnology	137.47M
+INMD	InMode Ltd.	Medical Devices	2.67B
+INN	Summit Hotel Properties, Inc.	REIT - Hotel & Motel	713.06M
+INNV	InnovAge Holding Corp.	Medical Care Facilities	1.00B
+INO	Inovio Pharmaceuticals, Inc.	Biotechnology	152.99M
+INOD	Innodata Inc.	Information Technology Services	284.95M
+INPX	Inpixon	Software - Application	5.30M
+INSE	Inspired Entertainment, Inc.	Gambling	363.54M
+INSG	Inseego Corp.	Communication Equipment	115.50M
+INSM	Insmed Incorporated	Biotechnology	2.65B
+INSP	Inspire Medical Systems, Inc.	Medical Devices	8.67B
+INST	Instructure Holdings, Inc.	Software - Application	3.54B
+INSW	International Seaways, Inc.	Oil & Gas Midstream	1.83B
+INT	World Fuel Services Corporation	Oil & Gas Refining & Marketing	1.44B
+INTA	Intapp, Inc.	Software - Application	2.78B
+INTC	Intel Corporation	Semiconductors	130.22B
+INTE	Integral Acquisition Corporation 1	Shell Companies	61.53M
+INTG	The InterGroup Corporation	Lodging	78.55M
+INTR	Inter & Co, Inc.	Banks - Regional	1.11B
+INTT	inTEST Corporation	Semiconductor Equipment & Materials	245.67M
+INTU	Intuit Inc.	Software - Application	119.13B
+INTZ	Intrusion Inc.	Software - Infrastructure	32.21M
+INUV	Inuvo, Inc.	Advertising Agencies	31.65M
+INVA	Innoviva, Inc.	Biotechnology	861.71M
+INVE	Identiv, Inc.	Computer Hardware	161.28M
+INVH	Invitation Homes Inc.	REIT - Residential	20.68B
+INVO	INVO Bioscience, Inc.	Medical Devices	3.50M
+INVZ	Innoviz Technologies Ltd.	Auto Parts	408.87M
+INZY	Inozyme Pharma, Inc.	Biotechnology	283.15M
+IOAC	Innovative International Acquisition Corp.	Shell Companies	121.22M
+IOBT	IO Biotech, Inc.	Biotechnology	58.64M
+IONM	Assure Holdings Corp.	Medical Care Facilities	5.28M
+IONQ	IonQ, Inc.	Computer Hardware	2.15B
+IONR	ioneer Ltd	Other Industrial Metals & Mining	470.55M
+IONS	Ionis Pharmaceuticals, Inc.	Biotechnology	6.14B
+IOR	Income Opportunity Realty Investors, Inc.	Mortgage Finance	45.85M
+IOSP	Innospec Inc.	Specialty Chemicals	2.33B
+IOT	Samsara Inc.	Software - Infrastructure	10.16B
+IOVA	Iovance Biotherapeutics, Inc.	Biotechnology	2.04B
+IP	International Paper Company	Packaging & Containers	10.11B
+IPA	ImmunoPrecise Antibodies Ltd.	Biotechnology	82.29M
+IPAR	Inter Parfums, Inc.	Household & Personal Products	4.09B
+IPDN	Professional Diversity Network, Inc.	Staffing & Employment Services	28.14M
+IPG	The Interpublic Group of Companies, Inc.	Advertising Agencies	14.62B
+IPGP	IPG Photonics Corporation	Semiconductor Equipment & Materials	5.23B
+IPHA	Innate Pharma S.A.	Biotechnology	236.47M
+IPI	Intrepid Potash, Inc.	Agricultural Inputs	233.17M
+IPSC	Century Therapeutics, Inc.	Biotechnology	193.04M
+IPVF	InterPrivate III Financial Partners Inc.	Shell Companies	97.47M
+IPW	iPower Inc.	Internet Retail	19.03M
+IPWR	Ideal Power Inc.	Electrical Equipment & Parts	65.34M
+IPX	IperionX Limited	Other Industrial Metals & Mining	117.09M
+IPXX	Inflection Point Acquisition Corp. II	
