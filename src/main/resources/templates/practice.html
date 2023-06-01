@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML with JavaScript</title>
+  <script>
+        function greet() {
+            var name = prompt("What's your name?");
+            if (name !== null) {
+                var greeting = "Hello, " + name + "!";
+                document.getElementById("message").textContent = greeting;
+            }
+        }
+    </script>
+</head>
+<body>
+<h1>HTML with JavaScript Example</h1>
+<button onclick="greet()">Click Me</button>
+<p id="message"></p>
+</body>
+</html>
