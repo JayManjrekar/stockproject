@@ -1421,5 +1421,336 @@ GLPG	Galapagos NV	Biotechnology	2.69B
 GLPI	Gaming and Leisure Properties, Inc.	REIT - Specialty	12.80B
 GLRE	Greenlight Capital Re, Ltd.	Insurance - Reinsurance	339.05M
 GLSI	Greenwich LifeSciences, Inc.	Biotechnology	140.50M
-
+HLGN	Heliogen, Inc.	Utilities - Renewable	49.24M
+HLI	Houlihan Lokey, Inc.	Capital Markets	5.94B
+HLIO	Helios Technologies, Inc.	Specialty Industrial Machinery	1.67B
+HLIT	Harmonic Inc.	Communication Equipment	1.94B
+HLLY	Holley Inc.	Auto Parts	361.30M
+HLMN	Hillman Solutions Corp.	Tools & Accessories	1.58B
+HLN	Haleon plc	Drug Manufacturers - Specialty & Generic	37.54B
+HLNE	Hamilton Lane Incorporated	Asset Management	3.72B
+HLP	Hongli Group Inc.	Steel	24.50M
+HLT	Hilton Worldwide Holdings Inc.	Lodging	36.53B
+HLTH	Cue Health Inc.	Health Information Services	109.20M
+HLVX	HilleVax, Inc.	Biotechnology	721.68M
+HLX	Helix Energy Solutions Group, Inc.	Oil & Gas Equipment & Services	988.10M
+HMA	Heartland Media Acquisition Corp.	Shell Companies	252.38M
+HMAC	Hainan Manaslu Acquisition Corp.	Shell Companies	94.15M
+HMC	Honda Motor Co., Ltd.	Auto Manufacturers	47.71B
+HMN	Horace Mann Educators Corporation	Insurance - Property & Casualty	1.25B
+HMNF	HMN Financial, Inc.	Banks - Regional	82.88M
+HMPT	Home Point Capital Inc.	Mortgage Finance	319.18M
+HMST	HomeStreet, Inc.	Banks - Regional	101.95M
+HMY	Harmony Gold Mining Company Limited	Gold	3.00B
+HNI	HNI Corporation	Business Equipment & Supplies	1.07B
+HNNA	Hennessy Advisors, Inc.	Asset Management	55.61M
+HNRA	HNR Acquisition Corp	Shell Companies	79.37M
+HNRG	Hallador Energy Company	Thermal Coal	264.43M
+HNST	The Honest Company, Inc.	Specialty Retail	139.68M
+HNVR	Hanover Bancorp, Inc.	Banks - Regional	127.11M
+HOFT	Hooker Furnishings Corporation	Furnishings, Fixtures & Appliances	169.12M
+HOFV	Hall of Fame Resort & Entertainment Company	Entertainment	37.77M
+HOG	Harley-Davidson, Inc.	Recreational Vehicles	4.51B
+HOLI	Hollysys Automation Technologies Ltd.	Electrical Equipment & Parts	991.09M
+HOLO	MicroCloud Hologram Inc.	Electronic Components	116.87M
+HOLX	Hologic, Inc.	Medical Instruments & Supplies	19.44B
+HOMB	Home Bancshares, Inc. (Conway, AR)	Banks - Regional	4.44B
+HON	Honeywell International Inc.	Conglomerates	128.87B
+HONE	HarborOne Bancorp, Inc.	Banks - Regional	395.09M
+HOOD	Robinhood Markets, Inc.	Software - Infrastructure	8.16B
+HOOK	HOOKIPA Pharma Inc.	Biotechnology	60.47M
+HOPE	Hope Bancorp, Inc.	Banks - Regional	989.97M
+HOTH	Hoth Therapeutics, Inc.	Biotechnology	5.91M
+HOUR	Hour Loop, Inc.	Internet Retail	65.56M
+HOUS	Anywhere Real Estate Inc.	Real Estate Services	703.61M
+HOV	Hovnanian Enterprises, Inc.	Residential Construction	448.53M
+HOWL	Werewolf Therapeutics, Inc.	Biotechnology	118.59M
+HP	Helmerich & Payne, Inc.	Oil & Gas Drilling	3.27B
+HPCO	Hempacco Co., Inc.	Drug Manufacturers - Specialty & Generic	13.43M
+HPE	Hewlett Packard Enterprise Company	Communication Equipment	19.19B
+HPK	HighPeak Energy, Inc.	Oil & Gas E&P	1.44B
+HPLT	Home Plate Acquisition Corp.	Shell Companies	73.60M
+HPP	Hudson Pacific Properties, Inc.	REIT - Office	1.31B
+HPQ	HP Inc.	Computer Hardware	28.80B
+HQI	HireQuest, Inc.	Staffing & Employment Services	322.34M
+HQY	HealthEquity, Inc.	Health Information Services	4.71B
+HR	Healthcare Realty Trust Incorporated	REIT - Healthcare Facilities	7.08B
+HRB	H&R Block, Inc.	Personal Services	4.64B
+HRI	Herc Holdings Inc.	Rental & Leasing Services	2.95B
+HRL	Hormel Foods Corporation	Packaged Foods	21.96B
+HRMY	Harmony Biosciences Holdings, Inc.	Biotechnology	2.07B
+HROW	Harrow Health, Inc.	Drug Manufacturers - Specialty & Generic	583.01M
+HRT	HireRight Holdings Corporation	Staffing & Employment Services	767.31M
+HRTG	Heritage Insurance Holdings, Inc.	Insurance - Property & Casualty	123.95M
+HRTX	Heron Therapeutics, Inc.	Biotechnology	138.27M
+HRZN	Horizon Technology Finance Corporation	Asset Management	338.43M
+HSAI	Hesai Group	Auto Parts	1.00B
+HSBC	HSBC Holdings plc	Banks - Diversified	149.27B
+HSC	Harsco Corporation	Waste Management	675.38M
+HSCS	Heart Test Laboratories, Inc.	Medical Devices	9.35M
+HSDT	Helius Medical Technologies, Inc.	Medical Devices	4.45M
+HSHP	Himalaya Shipping Ltd.	Marine Shipping	162.69M
+HSIC	Henry Schein, Inc.	Medical Distribution	9.67B
+HSII	Heidrick & Struggles International, Inc.	Staffing & Employment Services	495.28M
+HSKA	Heska Corporation	Medical Devices	1.31B
+HSON	Hudson Global, Inc.	Staffing & Employment Services	57.24M
+HSPO	Horizon Space Acquisition I Corp.	Shell Companies	95.24M
+HST	Host Hotels & Resorts, Inc.	REIT - Hotel & Motel	11.86B
+HSTM	HealthStream, Inc.	Health Information Services	712.14M
+HSTO	Histogen Inc.	Biotechnology	3.65M
+HSY	The Hershey Company	Confectioners	53.04B
+HT	Hersha Hospitality Trust	REIT - Hotel & Motel	244.79M
+HTBI	HomeTrust Bancshares, Inc.	Banks - Regional	348.27M
+HTBK	Heritage Commerce Corp	Banks - Regional	462.76M
+HTCR	HeartCore Enterprises, Inc.	Software - Application	32.21M
+HTGC	Hercules Capital, Inc.	Asset Management	2.07B
+HTGM	HTG Molecular Diagnostics, Inc.	Diagnostics & Research	4.61M
+HTH	Hilltop Holdings Inc.	Banks - Regional	2.00B
+HTHT	H World Group Limited	Lodging	12.53B
+HTLD	Heartland Express, Inc.	Trucking	1.24B
+HTLF	Heartland Financial USA, Inc.	Banks - Regional	1.21B
+HTOO	Fusion Fuel Green PLC	Utilities - Renewable	54.98M
+HTZ	Hertz Global Holdings, Inc.	Rental & Leasing Services	4.99B
+HUBB	Hubbell Incorporated	Electrical Equipment & Parts	15.31B
+HUBC	HUB Cyber Security (Israel) Ltd.	Software - Infrastructure	56.44M
+HUBG	Hub Group, Inc.	Integrated Freight & Logistics	2.40B
+HUBS	HubSpot, Inc.	Software - Application	25.93B
+HUDA	Hudson Acquisition I Corp.	Shell Companies	90.33M
+HUDI	Huadi International Group Co., Ltd.	Steel	63.76M
+HUGE	FSD Pharma Inc.	Drug Manufacturers - Specialty & Generic	44.10M
+HUIZ	Huize Holding Limited	Insurance Brokers	62.94M
+HUM	Humana Inc.	Healthcare Plans	64.73B
+HUMA	Humacyte, Inc.	Biotechnology	353.90M
+HUN	Huntsman Corporation	Chemicals	4.33B
+HURC	Hurco Companies, Inc.	Specialty Industrial Machinery	137.78M
+HURN	Huron Consulting Group Inc.	Consulting Services	1.56B
+HUSA	Houston American Energy Corp.	Oil & Gas E&P	25.09M
+HUT	Hut 8 Mining Corp.	Capital Markets	485.69M
+HUYA	HUYA Inc.	Entertainment	719.71M
+HVBC	HV Bancorp, Inc.	Banks - Regional	66.00M
+HVT	Haverty Furniture Companies, Inc.	Home Improvement Retail	423.64M
+HWBK	Hawthorn Bancshares, Inc.	Banks - Regional	123.19M
+HWC	Hancock Whitney Corporation	Banks - Regional	3.28B
+HWEL	Healthwell Acquisition Corp. I	Shell Companies	319.06M
+HWKN	Hawkins, Inc.	Specialty Chemicals	993.27M
+HWKZ	Hawks Acquisition Corp	Shell Companies	100.75M
+HWM	Howmet Aerospace Inc.	Specialty Industrial Machinery	18.08B
+HXL	Hexcel Corporation	Aerospace & Defense	5.91B
+HY	Hyster-Yale Materials Handling, Inc.	Farm & Heavy Construction Machinery	833.56M
+HYFM	Hydrofarm Holdings Group, Inc.	Farm & Heavy Construction Machinery	41.03M
+HYLN	Hyliion Holdings Corp.	Auto Parts	284.81M
+HYMC	Hycroft Mining Holding Corporation	Gold	68.21M
+HYPR	Hyperfine, Inc.	Medical Devices	119.41M
+HYW	Hywin Holdings Ltd.	Asset Management	173.04M
+HYZN	Hyzon Motors Inc.	Auto Manufacturers	144.68M
+HZNP	Horizon Therapeutics PLC	Drug Manufacturers - General	22.99B
+HZO	MarineMax, Inc.	Specialty Retail	626.36M
+IAC	IAC Inc.	Internet Content & Information	4.77B
+IAG	IAMGOLD Corporation	Gold	1.38B
+IART	Integra LifeSciences Holdings Corporation	Medical Devices	3.15B
+IAS	Integral Ad Science Holding Corp.	Advertising Agencies	2.97B
+IAUX	i-80 Gold Corp.	Gold	620.45M
+IBCP	Independent Bank Corporation	Banks - Regional	353.48M
+IBEX	IBEX Limited	Information Technology Services	380.38M
+IBIO	iBio, Inc.	Biotechnology	12.09M
+IBKR	Interactive Brokers Group, Inc.	Capital Markets	32.57B
+IBM	International Business Machines Corporation	Information Technology Services	117.66B
+IBN	ICICI Bank Limited	Banks - Regional	80.49B
+IBOC	International Bancshares Corporation	Banks - Regional	2.75B
+IBP	Installed Building Products, Inc.	Building Products & Equipment	3.00B
+IBRX	ImmunityBio, Inc.	Biotechnology	1.27B
+IBTX	Independent Bank Group, Inc.	Banks - Regional	1.43B
+ICAD	iCAD, Inc.	Medical Devices	33.08M
+ICCC	ImmuCell Corporation	Biotechnology	36.41M
+ICCH	ICC Holdings, Inc.	Insurance - Specialty	49.60M
+ICCM	IceCure Medical Ltd	Medical Devices	49.05M
+ICD	Independence Contract Drilling, Inc.	Oil & Gas Drilling	40.22M
+ICE	Intercontinental Exchange, Inc.	Financial Data & Stock Exchanges	59.34B
+ICFI	ICF International, Inc.	Consulting Services	2.15B
+ICG	Intchains Group Limited	Semiconductors	503.36M
+ICHR	Ichor Holdings, Ltd.	Semiconductor Equipment & Materials	889.98M
+ICL	ICL Group Ltd	Agricultural Inputs	7.11B
+ICLK	iClick Interactive Asia Group Limited	Advertising Agencies	27.93M
+ICLR	ICON PLC	Diagnostics & Research	17.48B
+ICMB	Investcorp Credit Management BDC, Inc.	Asset Management	54.71M
+ICNC	Iconic Sports Acquisition Corp.	Shell Companies	232.49M
+ICPT	Intercept Pharmaceuticals, Inc.	Biotechnology	440.42M
+ICU	SeaStar Medical Holding Corporation	Biotechnology	7.04M
+ICUI	ICU Medical, Inc.	Medical Instruments & Supplies	4.29B
+ICVX	Icosavax, Inc.	Biotechnology	421.31M
+ID	PARTS iD, Inc.	Internet Retail	11.30M
+IDA	IDACORP, Inc.	Utilities - Regulated Electric	5.21B
+IDAI	T Stamp Inc.	Software - Application	15.07M
+IDBA	IDEX Biometrics ASA	Software - Application	88.55M
+IDCC	InterDigital, Inc.	Telecom Services	2.25B
+IDEX	Ideanomics, Inc.	Farm & Heavy Construction Machinery	34.18M
+IDN	Intellicheck, Inc.	Software - Application	48.71M
+IDR	Idaho Strategic Resources, Inc.	Gold	58.03M
+IDT	IDT Corporation	Telecom Services	779.97M
+IDXX	IDEXX Laboratories, Inc.	Diagnostics & Research	39.08B
+IDYA	IDEAYA Biosciences, Inc.	Biotechnology	1.34B
+IE	Ivanhoe Electric Inc.	Software - Application	1.22B
+IEP	Icahn Enterprises L.P.	Conglomerates	8.33B
+IESC	IES Holdings, Inc.	Engineering & Construction	974.88M
+IEX	IDEX Corporation	Specialty Industrial Machinery	15.16B
+IFBD	Infobird Co., Ltd	Software - Application	5.55M
+IFF	International Flavors & Fragrances Inc.	Specialty Chemicals	19.49B
+IFIN	InFinT Acquisition Corporation	Shell Companies	165.89M
+IFRX	InflaRx N.V.	Biotechnology	247.90M
+IFS	Intercorp Financial Services Inc.	Banks - Regional	2.56B
+IGC	India Globalization Capital, Inc.	Conglomerates	15.83M
+IGIC	International General Insurance Holdings Ltd.	Insurance - Diversified	440.56M
+IGMS	IGM Biosciences, Inc.	Biotechnology	536.06M
+IGT	International Game Technology PLC	Gambling	5.04B
+IGTA	Inception Growth Acquisition Limited	Shell Companies	73.35M
+IH	iHuman Inc.	Education & Training Services	143.97M
+IHG	InterContinental Hotels Group PLC	Lodging	11.63B
+IHRT	iHeartMedia, Inc.	Broadcasting	306.28M
+IHS	IHS Holding Limited	Telecom Services	2.77B
+IHT	InnSuites Hospitality Trust	REIT - Hotel & Motel	17.67M
+III	Information Services Group, Inc.	Information Technology Services	246.03M
+IIIN	Insteel Industries, Inc.	Metal Fabrication	580.61M
+IIIV	i3 Verticals, Inc.	Software - Infrastructure	771.55M
+IINN	Inspira Technologies Oxy B.H.N. Ltd.	Medical Devices	16.03M
+IIPR	Innovative Industrial Properties, Inc.	REIT - Industrial	1.86B
+IKNA	Ikena Oncology, Inc.	Biotechnology	243.55M
+IKT	Inhibikase Therapeutics, Inc.	Biotechnology	21.44M
+ILAG	Intelligent Living Application Group Inc.	Building Products & Equipment	19.32M
+ILLM	AcuityAds Holdings, Inc.	Advertising Agencies	101.69M
+ILMN	Illumina, Inc.	Diagnostics & Research	31.29B
+ILPT	Industrial Logistics Properties Trust	REIT - Industrial	115.72M
+IMAB	I-Mab	Biotechnology	259.27M
+IMAQ	International Media Acquisition Corp.	Shell Companies	90.91M
+IMAX	IMAX Corporation	Entertainment	972.79M
+IMBI	iMedia Brands, Inc.	Internet Retail	5.25M
+IMCC	IM Cannabis Corp.	Drug Manufacturers - Specialty & Generic	16.54M
+IMCR	Immunocore Holdings plc	Biotechnology	2.68B
+IMGN	ImmunoGen, Inc.	Biotechnology	3.14B
+IMKTA	Ingles Markets, Incorporated	Grocery Stores	1.53B
+IMMP	Immutep Limited	Biotechnology	176.74M
+IMMR	Immersion Corporation	Software - Application	236.92M
+IMMX	Immix Biopharma, Inc.	Biotechnology	30.82M
+IMNM	Immunome, Inc.	Biotechnology	66.21M
+IMNN	Imunon, Inc.	Biotechnology	11.01M
+IMO	Imperial Oil Limited	Oil & Gas Integrated	27.23B
+IMOS	ChipMOS TECHNOLOGIES INC.	Semiconductors	950.87M
+IMPL	Impel Pharmaceuticals Inc.	Biotechnology	30.99M
+IMPP	Imperial Petroleum Inc.	Oil & Gas E&P	57.23M
+IMRN	Immuron Limited	Biotechnology	11.99M
+IMRX	Immuneering Corporation	Biotechnology	249.35M
+IMTE	Integrated Media Technology Limited	Electronic Components	10.32M
+IMTX	Immatics N.V.	Biotechnology	769.78M
+IMUX	Immunic, Inc.	Biotechnology	73.31M
+IMVT	Immunovant, Inc.	Biotechnology	2.72B
+IMXI	International Money Express, Inc.	Software - Infrastructure	862.75M
+INAB	IN8bio, Inc.	Biotechnology	94.61M
+INAQ	Insight Acquisition Corp.	Shell Companies	91.05M
+INBK	First Internet Bancorp	Banks - Regional	111.59M
+INBS	Intelligent Bio Solutions Inc.	Diagnostics & Research	4.75M
+INBX	Inhibrx, Inc.	Biotechnology	1.09B
+INCR	InterCure Ltd.	Drug Manufacturers - Specialty & Generic	91.44M
+INCY	Incyte Corporation	Biotechnology	13.80B
+INDB	Independent Bank Corp.	Banks - Regional	2.01B
+INDI	indie Semiconductor, Inc.	Semiconductor Equipment & Materials	1.33B
+INDO	Indonesia Energy Corporation Limited	Oil & Gas E&P	46.75M
+INDP	Indaptus Therapeutics, Inc.	Biotechnology	14.70M
+INDT	INDUS Realty Trust, Inc.	Real Estate Services	681.74M
+INFA	Informatica Inc.	Software - Infrastructure	5.10B
+INFI	Infinity Pharmaceuticals, Inc.	Biotechnology	16.54M
+INFN	Infinera Corporation	Communication Equipment	1.09B
+INFU	InfuSystem Holdings, Inc.	Medical Instruments & Supplies	189.85M
+INFY	Infosys Limited	Information Technology Services	65.54B
+ING	ING Groep N.V.	Banks - Diversified	45.37B
+INGN	Inogen, Inc.	Medical Devices	247.17M
+INGR	Ingredion Incorporated	Packaged Foods	6.94B
+INKT	MiNK Therapeutics, Inc.	Biotechnology	61.96M
+INLX	Intellinetics, Inc.	Software - Application	17.11M
+INM	InMed Pharmaceuticals Inc.	Biotechnology	4.56M
+INMB	INmune Bio, Inc.	Biotechnology	137.47M
+INMD	InMode Ltd.	Medical Devices	2.68B
+INN	Summit Hotel Properties, Inc.	REIT - Hotel & Motel	713.06M
+INNV	InnovAge Holding Corp.	Medical Care Facilities	1.00B
+INO	Inovio Pharmaceuticals, Inc.	Biotechnology	152.99M
+INOD	Innodata Inc.	Information Technology Services	282.11M
+INPX	Inpixon	Software - Application	5.26M
+INSE	Inspired Entertainment, Inc.	Gambling	363.54M
+INSG	Inseego Corp.	Communication Equipment	114.95M
+INSM	Insmed Incorporated	Biotechnology	2.65B
+INSP	Inspire Medical Systems, Inc.	Medical Devices	8.68B
+INST	Instructure Holdings, Inc.	Software - Application	3.54B
+INSW	International Seaways, Inc.	Oil & Gas Midstream	1.83B
+INT	World Fuel Services Corporation	Oil & Gas Refining & Marketing	1.44B
+INTA	Intapp, Inc.	Software - Application	2.78B
+INTC	Intel Corporation	Semiconductors	130.32B
+INTE	Integral Acquisition Corporation 1	Shell Companies	61.53M
+INTG	The InterGroup Corporation	Lodging	78.55M
+INTR	Inter & Co, Inc.	Banks - Regional	1.13B
+INTT	inTEST Corporation	Semiconductor Equipment & Materials	247.90M
+INTU	Intuit Inc.	Software - Application	118.94B
+INTZ	Intrusion Inc.	Software - Infrastructure	31.78M
+INUV	Inuvo, Inc.	Advertising Agencies	31.64M
+INVA	Innoviva, Inc.	Biotechnology	861.38M
+INVE	Identiv, Inc.	Computer Hardware	161.51M
+INVH	Invitation Homes Inc.	REIT - Residential	20.66B
+INVO	INVO Bioscience, Inc.	Medical Devices	3.50M
+INVZ	Innoviz Technologies Ltd.	Auto Parts	407.60M
+INZY	Inozyme Pharma, Inc.	Biotechnology	282.27M
+IOAC	Innovative International Acquisition Corp.	Shell Companies	121.22M
+IOBT	IO Biotech, Inc.	Biotechnology	58.78M
+IONM	Assure Holdings Corp.	Medical Care Facilities	5.28M
+IONQ	IonQ, Inc.	Computer Hardware	2.15B
+IONR	ioneer Ltd	Other Industrial Metals & Mining	470.55M
+IONS	Ionis Pharmaceuticals, Inc.	Biotechnology	6.14B
+IOR	Income Opportunity Realty Investors, Inc.	Mortgage Finance	45.85M
+IOSP	Innospec Inc.	Specialty Chemicals	2.33B
+IOT	Samsara Inc.	Software - Infrastructure	10.12B
+IOVA	Iovance Biotherapeutics, Inc.	Biotechnology	2.04B
+IP	International Paper Company	Packaging & Containers	10.12B
+IPA	ImmunoPrecise Antibodies Ltd.	Biotechnology	82.29M
+IPAR	Inter Parfums, Inc.	Household & Personal Products	4.08B
+IPDN	Professional Diversity Network, Inc.	Staffing & Employment Services	28.14M
+IPG	The Interpublic Group of Companies, Inc.	Advertising Agencies	14.62B
+IPGP	IPG Photonics Corporation	Semiconductor Equipment & Materials	5.20B
+IPHA	Innate Pharma S.A.	Biotechnology	236.47M
+IPI	Intrepid Potash, Inc.	Agricultural Inputs	233.04M
+IPSC	Century Therapeutics, Inc.	Biotechnology	191.85M
+IPVF	InterPrivate III Financial Partners Inc.	Shell Companies	97.47M
+IPW	iPower Inc.	Internet Retail	20.22M
+IPWR	Ideal Power Inc.	Electrical Equipment & Parts	65.34M
+IPX	IperionX Limited	Other Industrial Metals & Mining	115.55M
+IPXX	Inflection Point Acquisition Corp. II	Shell Companies	272.16M
+IQ	iQIYI, Inc.	Entertainment	4.10B
+IQV	IQVIA Holdings Inc.	Diagnostics & Research	36.97B
+IR	Ingersoll Rand Inc.	Specialty Industrial Machinery	23.32B
+IRAA	Iris Acquisition Corp	Shell Companies	84.63M
+IRBT	iRobot Corporation	Furnishings, Fixtures & Appliances	1.07B
+IRDM	Iridium Communications Inc.	Telecom Services	7.66B
+IREN	Iris Energy Limited	Capital Markets	198.49M
+IRIX	IRIDEX Corporation	Medical Devices	34.42M
+IRM	Iron Mountain Incorporated	REIT - Specialty	15.49B
+IRMD	IRadimed Corporation	Medical Devices	605.94M
+IRNT	IronNet, Inc.	Software - Infrastructure	23.23M
+IRON	Disc Medicine, Inc.	Biotechnology	750.79M
+IROQ	IF Bancorp, Inc.	Banks - Regional	47.64M
+IRRX	Integrated Rail and Resources Acquisition Corp.	Shell Companies	209.26M
+IRS	IRSA Inversiones y Representaciones SA	Conglomerates	1.08B
+IRT	Independence Realty Trust, Inc.	REIT - Residential	3.90B
+IRTC	iRhythm Technologies, Inc.	Medical Devices	3.21B
+IRWD	Ironwood Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	1.72B
+ISDR	Issuer Direct Corporation	Software - Application	74.65M
+ISEE	IVERIC bio, Inc.	Biotechnology	5.20B
+ISIG	Insignia Systems, Inc.	Advertising Agencies	13.94M
+ISPC	iSpecimen Inc.	Diagnostics & Research	12.01M
+ISPO	Inspirato Incorporated	Leisure	63.84M
+ISPR	Ispire Technology Inc.	Tobacco	374.50M
+ISRG	Intuitive Surgical, Inc.	Medical Instruments & Supplies	108.66B
+ISRL	Israel Acquisitions Corp	Shell Companies	205.87M
+ISSC	Innovative Solutions and Support, Inc.	Aerospace & Defense	116.27M
+ISTR	Investar Holding Corporation	Banks - Regional	110.18M
+ISUN	iSun, Inc.	Solar	9.81M
+IT	Gartner, Inc.	Information Technology Services	26.92B
+ITAQ	Industrial Tech Acquisitions II, Inc.	Shell Companies	58.82M
+ITCI	Intra-Cellular Therapies, Inc.	Drug Manufacturers - Specialty & Generic	5.71B
+ITCL	Banco Itaú Chile	Banks-Regional	2.25B
+ITGR	Integer Holdings Corporation	Medical Devices	2.74B
 
