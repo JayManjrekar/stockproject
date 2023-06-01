@@ -631,4 +631,486 @@ CATO	The Cato Corporation	Apparel Retail	164.38M
 CATX	Perspective Therapeutics, Inc.	Medical Devices	149.90M
 CATY	Cathay General Bancorp	Banks - Regional	2.20B
 CB	Chubb Limited	Insurance - Property & Casualty	77.75B
+DARE	Daré Bioscience, Inc.	Biotechnology	88.00M
+DASH	DoorDash, Inc.	Internet Content & Information	26.56B
+DATS	DatChat, Inc.	Software - Application	7.97M
+DAVA	Endava plc	Software - Infrastructure	2.81B
+DAVE	Dave Inc.	Software - Application	66.38M
+DAWN	Day One Biopharmaceuticals, Inc.	Biotechnology	984.03M
+DB	Deutsche Bank Aktiengesellschaft	Banks - Regional	21.03B
+DBD	Diebold Nixdorf, Incorporated	Software - Application	19.90M
+DBGI	Digital Brands Group, Inc.	Apparel Retail	4.25M
+DBI	Designer Brands Inc.	Apparel Retail	419.31M
+DBRG	DigitalBridge Group, Inc.	REIT - Diversified	2.06B
+DBTX	Decibel Therapeutics, Inc.	Biotechnology	104.06M
+DBVT	DBV Technologies S.A.	Biotechnology	366.56M
+DBX	Dropbox, Inc.	Software - Infrastructure	8.13B
+DC	Dakota Gold Corp.	Gold	249.29M
+DCBO	Docebo Inc.	Software - Application	1.15B
+DCFC	Tritium DCFC Limited	Electrical Equipment & Parts	187.02M
+DCGO	DocGo Inc.	Medical Care Facilities	932.82M
+DCI	Donaldson Company, Inc.	Specialty Industrial Machinery	7.18B
+DCO	Ducommun Incorporated	Aerospace & Defense	603.38M
+DCOM	Dime Community Bancshares, Inc.	Banks - Regional	646.76M
+DCP	DCP Midstream, LP	Oil & Gas Midstream	8.68B
+DCPH	Deciphera Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	1.09B
+DCTH	Delcath Systems, Inc.	Medical Devices	82.52M
+DD	DuPont de Nemours, Inc.	Specialty Chemicals	30.92B
+DDD	3D Systems Corporation	Computer Hardware	1.08B
+DDI	DoubleDown Interactive Co., Ltd.	Electronic Gaming & Multimedia	438.55M
+DDL	Dingdong (Cayman) Limited	Grocery Stores	495.38M
+DDOG	Datadog, Inc.	Software - Application	30.60B
+DDS	Dillard's, Inc.	Department Stores	4.86B
+DE	Deere & Company	Farm & Heavy Construction Machinery	104.90B
+DEA	Easterly Government Properties, Inc.	REIT - Office	2.48B
+DECA	Denali Capital Acquisition Corp.	Shell Companies	115.37M
+DECK	Deckers Outdoor Corporation	Footwear & Accessories	12.39B
+DEI	Douglas Emmett, Inc.	REIT - Office	2.31B
+DELL	Dell Technologies Inc.	Computer Hardware	33.33B
+DEN	Denbury Inc.	Oil & Gas E&P	4.59B
+DENN	Denny's Corporation	Restaurants	635.75M
+DEO	Diageo plc	Beverages - Wineries & Distilleries	95.18B
+DERM	Journey Medical Corporation	Drug Manufacturers - Specialty & Generic	21.75M
+DESP	Despegar.com, Corp.	Travel Services	441.26M
+DFFN	Diffusion Pharmaceuticals Inc.	Biotechnology	7.69M
+DFH	Dream Finders Homes, Inc.	Residential Construction	1.70B
+DFIN	Donnelley Financial Solutions, Inc.	Capital Markets	1.29B
+DFLI	Dragonfly Energy Holdings Corp.	Electrical Equipment & Parts	123.89M
+DFS	Discover Financial Services	Credit Services	26.72B
+DG	Dollar General Corporation	Discount Stores	35.65B
+DGHI	Digihost Technology Inc.	Software - Application	43.98M
+DGICA	Donegal Group Inc.	Insurance - Property & Casualty	473.00M
+DGICB	Donegal Group Inc.	Insurance - Property & Casualty	485.76M
+DGII	Digi International Inc.	Communication Equipment	1.29B
+DGLY	Digital Ally, Inc.	Security & Protection Services	10.13M
+DGX	Quest Diagnostics Incorporated	Diagnostics & Research	14.80B
+DH	Definitive Healthcare Corp.	Health Information Services	1.12B
+DHAC	Digital Health Acquisition Corp.	Shell Companies	47.81M
+DHC	Diversified Healthcare Trust	REIT - Healthcare Facilities	351.13M
+DHCA	DHC Acquisition Corp.	Shell Companies	129.89M
+DHI	D.R. Horton, Inc.	Residential Construction	36.85B
+DHIL	Diamond Hill Investment Group, Inc.	Asset Management	477.36M
+DHR	Danaher Corporation	Diagnostics & Research	171.99B
+DHT	DHT Holdings, Inc.	Oil & Gas Midstream	1.32B
+DHX	DHI Group, Inc.	Staffing & Employment Services	176.44M
+DIBS	1stdibs.Com, Inc.	Internet Retail	144.01M
+DICE	DICE Therapeutics, Inc.	Biotechnology	1.46B
+DIN	Dine Brands Global, Inc.	Restaurants	952.20M
+DINO	HF Sinclair Corporation	Oil & Gas Refining & Marketing	8.03B
+DIOD	Diodes Incorporated	Semiconductors	4.16B
+DIS	The Walt Disney Company	Entertainment	162.28B
+DISA	Disruptive Acquisition Corporation I	Shell Companies	87.39M
+DISH	DISH Network Corporation	Telecom Services	3.37B
+DIST	Distoken Acquisition Corporation	Shell Companies	56.20M
+DIT	AMCON Distributing Company	Food Distribution	128.30M
+DJCO	Daily Journal Corporation	Software - Application	400.72M
+DK	Delek US Holdings, Inc.	Oil & Gas Refining & Marketing	1.45B
+DKDCA	Data Knights Acquisition Corp.	Shell Companies	81.76M
+DKL	Delek Logistics Partners, LP	Oil & Gas Midstream	2.35B
+DKNG	DraftKings Inc.	Gambling	11.46B
+DKS	DICK'S Sporting Goods, Inc.	Specialty Retail	10.97B
+DLA	Delta Apparel, Inc.	Apparel Manufacturing	69.79M
+DLB	Dolby Laboratories, Inc.	Information Technology Services	7.81B
+DLHC	DLH Holdings Corp.	Specialty Business Services	146.82M
+DLNG	Dynagas LNG Partners LP	Oil & Gas Midstream	93.11M
+DLO	DLocal Limited	Software - Infrastructure	3.28B
+DLPN	Dolphin Entertainment, Inc.	Entertainment	24.78M
+DLR	Digital Realty Trust, Inc.	REIT - Office	30.73B
+DLTH	Duluth Holdings Inc.	Apparel Retail	196.01M
+DLTR	Dollar Tree, Inc.	Discount Stores	28.73B
+DLX	Deluxe Corporation	Advertising Agencies	684.50M
+DM	Desktop Metal, Inc.	Computer Hardware	599.70M
+DMAC	DiaMedica Therapeutics Inc.	Biotechnology	72.72M
+DMAQ	Deep Medicine Acquisition Corp.	Shell Companies	49.13M
+DMLP	Dorchester Minerals, L.P.	Oil & Gas E&P	1.13B
+DMRC	Digimarc Corporation	Information Technology Services	603.99M
+DMS	Digital Media Solutions, Inc.	Advertising Agencies	15.43M
+DMTK	DermTech, Inc.	Diagnostics & Research	76.09M
+DMYY	dMY Squared Technology Group, Inc.	Shell Companies	64.83M
+DNA	Ginkgo Bioworks Holdings, Inc.	Biotechnology	3.53B
+DNAB	Social Capital Suvretta Holdings Corp. II	Shell Companies	328.79M
+DNAD	Social Capital Suvretta Holdings Corp. IV	Shell Companies	328.79M
+DNB	Dun & Bradstreet Holdings, Inc.	Financial Data & Stock Exchanges	4.36B
+DNLI	Denali Therapeutics Inc.	Biotechnology	4.26B
+DNMR	Danimer Scientific, Inc.	Specialty Chemicals	311.93M
+DNN	Denison Mines Corp.	Uranium	1.00B
+DNOW	NOW Inc.	Oil & Gas Equipment & Services	970.78M
+DNUT	Krispy Kreme, Inc.	Grocery Stores	2.61B
+DO	Diamond Offshore Drilling, Inc.	Oil & Gas Drilling	1.16B
+DOC	Physicians Realty Trust	REIT - Healthcare Facilities	3.40B
+DOCN	DigitalOcean Holdings, Inc.	Software - Infrastructure	3.54B
+DOCS	Doximity, Inc.	Health Information Services	6.12B
+DOCU	DocuSign, Inc.	Software - Application	11.63B
+DOGZ	Dogness (International) Corporation	Leisure	28.49M
+DOLE	Dole plc	Farm Products	1.30B
+DOMA	Doma Holdings Inc.	Real Estate Services	99.92M
+DOMH	Dominari Holdings Inc.	Biotechnology	11.61M
+DOMO	Domo, Inc.	Software - Application	468.52M
+DOOO	BRP Inc.	Recreational Vehicles	5.55B
+DOOR	Masonite International Corporation	Building Products & Equipment	1.96B
+DORM	Dorman Products, Inc.	Auto Parts	2.58B
+DOUG	Douglas Elliman Inc.	Real Estate Services	248.61M
+DOV	Dover Corporation	Specialty Industrial Machinery	18.88B
+DOW	Dow Inc.	Chemicals	34.85B
+DOX	Amdocs Limited	Software - Infrastructure	11.41B
+DOYU	DouYu International Holdings Limited	Internet Content & Information	319.78M
+DPCS	DP Cap Acquisition Corp I	Shell Companies	301.30M
+DPRO	Draganfly Inc.	Aerospace & Defense	37.24M
+DPSI	Decisionpoint Systems, Inc.	Software - Application	30.81M
+DPZ	Domino's Pizza, Inc.	Restaurants	10.55B
+DQ	Daqo New Energy Corp.	Semiconductor Equipment & Materials	2.87B
+DRCT	Direct Digital Holdings, Inc.	Advertising Agencies	45.94M
+DRD	DRDGOLD Limited	Gold	1.03B
+DRH	DiamondRock Hospitality Company	REIT - Hotel & Motel	1.67B
+DRI	Darden Restaurants, Inc.	Restaurants	19.46B
+DRIO	DarioHealth Corp.	Diagnostics & Research	105.84M
+DRMA	Dermata Therapeutics, Inc.	Biotechnology	5.24M
+DRQ	Dril-Quip, Inc.	Oil & Gas Equipment & Services	809.89M
+DRRX	DURECT Corporation	Drug Manufacturers - Specialty & Generic	152.33M
+DRS	Leonardo DRS, Inc.	Aerospace & Defense	3.96B
+DRTS	Alpha Tau Medical Ltd.	Biotechnology	285.07M
+DRTT	DIRTT Environmental Solutions Ltd.	Engineering & Construction	35.21M
+DRUG	Bright Minds Biosciences Inc.	Biotechnology	10.85M
+DRVN	Driven Brands Holdings Inc.	Auto & Truck Dealerships	4.13B
+DSAQ	Direct Selling Acquisition Corp.	Shell Companies	120.26M
+DSEY	Diversey Holdings, Ltd.	Personal Services	2.71B
+DSGN	Design Therapeutics, Inc.	Biotechnology	312.18M
+DSGR	Distribution Solutions Group, Inc.	Industrial Distribution	987.35M
+DSGX	The Descartes Systems Group Inc.	Software - Application	6.63B
+DSKE	Daseke, Inc.	Trucking	285.97M
+DSP	Viant Technology Inc.	Software - Application	285.88M
+DSS	DSS, Inc.	Packaging & Containers	27.67M
+DSWL	Deswell Industries, Inc.	Electronic Components	42.39M
+DSX	Diana Shipping Inc.	Marine Shipping	401.80M
+DT	Dynatrace, Inc.	Software - Application	14.93B
+DTC	Solo Brands, Inc.	Internet Retail	271.63M
+DTE	DTE Energy Company	Utilities - Regulated Electric	21.97B
+DTIL	Precision BioSciences, Inc.	Biotechnology	87.47M
+DTM	DT Midstream, Inc.	Oil & Gas Midstream	4.45B
+DTOC	Digital Transformation Opportunities Corp.	Shell Companies	104.63M
+DTSS	Datasea Inc.	Software - Infrastructure	27.37M
+DTST	Data Storage Corporation	Information Technology Services	13.01M
+DUET	DUET Acquisition Corp.	Shell Companies	79.91M
+DUK	Duke Energy Corporation	Utilities - Regulated Electric	67.70B
+DUNE	Dune Acquisition Corporation	Shell Companies	54.56M
+DUO	Fangdd Network Group Ltd.	Real Estate Services	40.65M
+DUOL	Duolingo, Inc.	Software - Application	6.39B
+DUOT	Duos Technologies Group, Inc.	Software - Application	39.64M
+DV	DoubleVerify Holdings, Inc.	Software - Application	5.76B
+DVA	DaVita Inc.	Medical Care Facilities	8.56B
+DVAX	Dynavax Technologies Corporation	Drug Manufacturers - Specialty & Generic	1.46B
+DVN	Devon Energy Corporation	Oil & Gas E&P	30.54B
+DWAC	Digital World Acquisition Corp.	Shell Companies	478.16M
+DWSN	Dawson Geophysical Company	Oil & Gas Equipment & Services	44.64M
+DX	Dynex Capital, Inc.	REIT - Mortgage	616.29M
+DXC	DXC Technology Company	Information Technology Services	5.23B
+DXCM	DexCom, Inc.	Medical Devices	45.74B
+DXF	Dunxin Financial Holdings Limited	Credit Services	4.53M
+DXLG	Destination XL Group, Inc.	Apparel Retail	266.68M
+DXPE	DXP Enterprises, Inc.	Industrial Distribution	559.55M
+DXR	Daxor Corporation	Medical Instruments & Supplies	44.85M
+DXYN	The Dixie Group, Inc.	Textile Manufacturing	16.28M
+DY	Dycom Industries, Inc.	Engineering & Construction	2.98B
+DYAI	Dyadic International, Inc.	Biotechnology	64.53M
+DYN	Dyne Therapeutics, Inc.	Biotechnology	759.79M
+DYNT	Dynatronics Corporation	Medical Devices	3.51M
+DZSI	DZS Inc.	Communication Equipment	126.35M
+E	Eni S.p.A.	Oil & Gas Integrated	46.06B
+EA	Electronic Arts Inc.	Electronic Gaming & Multimedia	35.03B
+EAC	Edify Acquisition Corp.	Shell Companies	89.83M
+EAF	GrafTech International Ltd.	Electrical Equipment & Parts	1.15B
+EAR	Eargo, Inc.	Medical Devices	98.73M
+EARN	Ellington Residential Mortgage REIT	REIT - Mortgage	96.12M
+EAST	Eastside Distilling, Inc.	Beverages - Wineries & Distilleries	3.00M
+EAT	Brinker International, Inc.	Restaurants	1.70B
+EB	Eventbrite, Inc.	Software - Application	756.45M
+EBAY	eBay Inc.	Internet Retail	23.23B
+EBC	Eastern Bankshares, Inc.	Banks - Regional	2.00B
+EBET	EBET, Inc.	Gambling	5.77M
+EBF	Ennis, Inc.	Business Equipment & Supplies	507.11M
+EBIX	Ebix, Inc.	Software - Application	613.70M
+EBMT	Eagle Bancorp Montana, Inc.	Banks - Regional	102.48M
+EBON	Ebang International Holdings Inc.	Computer Hardware	41.68M
+EBR	Centrais Elétricas Brasileiras S.A. - Eletrobrás	Utilities - Regulated Electric	16.22B
+EBS	Emergent BioSolutions Inc.	Drug Manufacturers - Specialty & Generic	430.07M
+EBTC	Enterprise Bancorp, Inc.	Banks - Regional	336.35M
+EC	Ecopetrol S.A.	Oil & Gas Integrated	19.65B
+ECBK	ECB Bancorp, Inc.	Banks - Regional	113.60M
+ECC	Eagle Point Credit Company Inc.	Asset Management	605.38M
+ECL	Ecolab Inc.	Specialty Chemicals	47.85B
+ECOR	electroCore, Inc.	Medical Devices	24.13M
+ECPG	Encore Capital Group, Inc.	Mortgage Finance	1.01B
+ECVT	Ecovyst Inc.	Specialty Chemicals	1.21B
+ECX	ECARX Holdings, Inc.	Auto Parts	2.52B
+ED	Consolidated Edison, Inc.	Utilities - Regulated Electric	31.83B
+EDAP	EDAP TMS S.A.	Medical Devices	371.49M
+EDBL	Edible Garden AG Incorporated	Farm Products	4.11M
+EDIT	Editas Medicine, Inc.	Biotechnology	656.95M
+EDN	Empresa Distribuidora y Comercializadora Norte SA	Utilities - Regulated Electric	858.62M
+EDR	Endeavor Group Holdings, Inc.	Entertainment	6.74B
+EDRY	EuroDry Ltd.	Marine Shipping	38.81M
+EDSA	Edesa Biotech, Inc.	Biotechnology	18.42M
+EDTK	Skillful Craftsman Education Technology Limited	Education & Training Services	23.54M
+EDTX	EdtechX Holdings Acquisition Corp. II	Shell Companies	65.43M
+EDU	New Oriental Education & Technology Group Inc.	Education & Training Services	7.16B
+EDUC	Educational Development Corporation	Publishing	10.89M
+EE	Excelerate Energy, Inc.	Utilities - Renewable	2.11B
+EEFT	Euronet Worldwide, Inc.	Software - Infrastructure	5.60B
+EEIQ	Elite Education Group International Limited	Education & Training Services	21.39M
+EEX	Emerald Holding, Inc.	Advertising Agencies	227.59M
+EFC	Ellington Financial Inc.	REIT - Mortgage	845.90M
+EFHT	EF Hutton Acquisition Corporation I Common Stock	Shell Companies	153.35M
+EFOI	Energy Focus, Inc.	Furnishings, Fixtures & Appliances	8.08M
+EFSC	Enterprise Financial Services Corp	Banks - Regional	1.52B
+EFSH	1847 Holdings LLC	Conglomerates	2.62M
+EFTR	eFFECTOR Therapeutics, Inc.	Biotechnology	43.76M
+EFX	Equifax Inc.	Consulting Services	25.63B
+EFXT	Enerflex Ltd.	Oil & Gas Equipment & Services	715.21M
+EGAN	eGain Corporation	Software - Application	226.01M
+EGBN	Eagle Bancorp, Inc.	Banks - Regional	626.77M
+EGGF	EG Acquisition Corp.	Shell Companies	289.69M
+EGHT	8x8, Inc.	Software - Application	468.37M
+EGIO	Edgio, Inc.	Software - Infrastructure	121.87M
+EGLE	Eagle Bulk Shipping Inc.	Marine Shipping	553.95M
+EGLX	Enthusiast Gaming Holdings Inc.	Internet Content & Information	63.77M
+EGO	Eldorado Gold Corporation	Gold	1.84B
+EGP	EastGroup Properties, Inc.	REIT - Industrial	7.25B
+EGRX	Eagle Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	275.31M
+EGY	VAALCO Energy, Inc.	Oil & Gas E&P	422.82M
+EH	EHang Holdings Limited	Aerospace & Defense	643.18M
+EHAB	Enhabit, Inc.	Medical Care Facilities	598.19M
+EHC	Encompass Health Corporation	Medical Care Facilities	6.23B
+EHTH	eHealth, Inc.	Insurance Brokers	193.14M
+EIC	Eagle Point Income Company Inc.	null	103.92M
+EIG	Employers Holdings, Inc.	Insurance - Specialty	979.39M
+EIGR	Eiger BioPharmaceuticals, Inc.	Biotechnology	50.05M
+EIX	Edison International	Utilities - Regulated Electric	25.36B
+EJH	E-Home Household Service Holdings Limited	Personal Services	3.32M
+EKSO	Ekso Bionics Holdings, Inc.	Medical Instruments & Supplies	18.90M
+EL	The Estée Lauder Companies Inc.	Household & Personal Products	65.51B
+ELA	Envela Corporation	Luxury Goods	199.11M
+ELAN	Elanco Animal Health Incorporated	Drug Manufacturers - Specialty & Generic	4.24B
+ELBM	Electra Battery Materials Corporation	Other Industrial Metals & Mining	37.75M
+ELDN	Eledon Pharmaceuticals, Inc.	Biotechnology	45.82M
+ELEV	Elevation Oncology, Inc.	Biotechnology	96.38M
+ELF	e.l.f. Beauty, Inc.	Household & Personal Products	5.71B
+ELLO	Ellomay Capital Ltd.	Utilities - Renewable	215.92M
+ELMD	Electromed, Inc.	Medical Devices	101.72M
+ELME	Elme Communities	REIT - Office	1.32B
+ELOX	Eloxx Pharmaceuticals, Inc.	Biotechnology	15.16M
+ELP	Companhia Paranaense de Energia - COPEL	Utilities - Diversified	19.57B
+ELS	Equity LifeStyle Properties, Inc.	REIT - Residential	12.36B
+ELSE	Electro-Sensors, Inc.	Scientific & Technical Instruments	15.46M
+ELTK	Eltek Ltd.	Electronic Components	51.59M
+ELV	Elevance Health Inc.	Healthcare Plans	110.34B
+ELVN	Enliven Therapeutics, Inc.	Biotechnology	791.87M
+ELYM	Eliem Therapeutics, Inc.	Biotechnology	78.69M
+ELYS	Elys Game Technology, Corp.	Gambling	20.15M
+EM	Smart Share Global Limited	Personal Services	213.21M
+EMAN	eMagin Corporation	Electronic Components	166.91M
+EMBC	Embecta Corp.	Drug Manufacturers - Specialty & Generic	1.53B
+EMBK	Embark Technology, Inc.	Software - Application	67.13M
+EMCG	WisdomTree Emerging Markets Consumer Growth Fund	Shell Companies	205.57M
+EME	EMCOR Group, Inc.	Engineering & Construction	7.83B
+EMKR	EMCORE Corporation	Semiconductors	39.66M
+EML	The Eastern Company	Tools & Accessories	102.14M
+EMLD	FTAC Emerald Acquisition Corp.	Shell Companies	355.46M
+EMN	Eastman Chemical Company	Specialty Chemicals	9.29B
+EMR	Emerson Electric Co.	Specialty Industrial Machinery	45.03B
+EMX	EMX Royalty Corporation	Other Industrial Metals & Mining	204.79M
+ENB	Enbridge Inc.	Oil & Gas Midstream	73.23B
+ENCP	Energem Corp.	Shell Companies	56.85M
+ENER	Accretion Acquisition Corp.	Shell Companies	109.70M
+ENFN	Enfusion, Inc.	Software - Application	586.06M
+ENG	ENGlobal Corporation	Engineering & Construction	18.29M
+ENIC	Enel Chile S.A.	Utilities - Regulated Electric	3.94B
+ENLC	EnLink Midstream, LLC	Oil & Gas Midstream	4.67B
+ENLT	Enlight Renewable Energy Ltd.	Utilities - Renewable	2.20B
+ENLV	Enlivex Therapeutics Ltd.	Biotechnology	48.09M
+ENOB	Enochian Biosciences, Inc.	Biotechnology	51.29M
+ENOV	Enovis Corporation	Specialty Industrial Machinery	2.91B
+ENPH	Enphase Energy, Inc.	Solar	24.75B
+ENR	Energizer Holdings, Inc.	Electrical Equipment & Parts	2.35B
+ENS	EnerSys	Electrical Equipment & Parts	4.04B
+ENSC	Ensysce Biosciences, Inc.	Biotechnology	3.92M
+ENSG	The Ensign Group, Inc.	Medical Care Facilities	4.98B
+ENSV	Enservco Corporation	Oil & Gas Equipment & Services	6.70M
+ENTA	Enanta Pharmaceuticals, Inc.	Biotechnology	511.86M
+ENTF	Enterprise 4.0 Technology Acquisition Corp.	Shell Companies	158.79M
+ENTG	Entegris, Inc.	Semiconductor Equipment & Materials	16.27B
+ENTX	Entera Bio Ltd.	Biotechnology	23.75M
+ENV	Envestnet, Inc.	Software - Application	2.79B
+ENVA	Enova International, Inc.	Credit Services	1.46B
+ENVB	Enveric Biosciences, Inc.	Biotechnology	9.08M
+ENVX	Enovix Corporation	Electrical Equipment & Parts	2.26B
+ENZ	Enzo Biochem, Inc.	Diagnostics & Research	110.89M
+EOCW	Elliott Opportunity II Corp.	Shell Companies	788.54M
+EOG	EOG Resources, Inc.	Oil & Gas E&P	64.16B
+EOLS	Evolus, Inc.	Drug Manufacturers - Specialty & Generic	511.17M
+EOSE	Eos Energy Enterprises, Inc.	Electrical Equipment & Parts	287.57M
+EP	Empire Petroleum Corporation	Oil & Gas E&P	229.34M
+EPAC	Enerpac Tool Group Corp.	Specialty Industrial Machinery	1.47B
+EPAM	EPAM Systems, Inc.	Information Technology Services	14.97B
+EPC	Edgewell Personal Care Company	Household & Personal Products	2.02B
+EPD	Enterprise Products Partners L.P.	Oil & Gas Midstream	55.67B
+EPIX	ESSA Pharma Inc.	Biotechnology	133.82M
+EPM	Evolution Petroleum Corporation	Oil & Gas E&P	260.32M
+EPOW	Sunrise New Energy Co., Ltd.	Consulting Services	51.36M
+EPR	EPR Properties	REIT - Specialty	3.11B
+EPRT	Essential Properties Realty Trust, Inc.	REIT - Diversified	3.56B
+EPSN	Epsilon Energy Ltd.	Oil & Gas E&P	113.49M
+EQ	Equillium, Inc.	Biotechnology	21.66M
+EQBK	Equity Bancshares, Inc.	Banks - Regional	351.15M
+EQC	Equity Commonwealth	REIT - Office	2.25B
+EQH	Equitable Holdings, Inc.	Insurance - Diversified	8.89B
+EQIX	Equinix, Inc.	REIT - Specialty	70.37B
+EQNR	Equinor ASA	Oil & Gas Integrated	80.61B
+EQR	Equity Residential	REIT - Residential	23.26B
+EQRX	EQRx, Inc.	Biotechnology	884.56M
+EQS	Equus Total Return, Inc.	Asset Management	20.28M
+EQT	EQT Corporation	Oil & Gas E&P	12.63B
+EQX	Equinox Gold Corp.	Gold	1.54B
+ERAS	Erasca, Inc.	Biotechnology	402.52M
+ERES	East Resources Acquisition Company	Shell Companies	118.14M
+ERF	Enerplus Corporation	Oil & Gas E&P	3.03B
+ERIC	Telefonaktiebolaget LM Ericsson (publ)	Communication Equipment	17.30B
+ERIE	Erie Indemnity Company	Insurance Brokers	11.21B
+ERII	Energy Recovery, Inc.	Pollution & Treatment Controls	1.35B
+ERJ	Embraer S.A.	Aerospace & Defense	2.83B
+ERNA	Eterna Therapeutics Inc.	Biotechnology	11.38M
+ERO	Ero Copper Corp.	Copper	1.61B
+ERYP	ERYTECH Pharma S.A.	Biotechnology	33.90M
+ES	Eversource Energy	Utilities - Regulated Electric	23.87B
+ESAB	ESAB Corporation	Metal Fabrication	3.61B
+ESAC	ESGEN Acquisition Corporation	Shell Companies	105.31M
+ESBA	Empire State Realty OP, L.P.	REIT - Office	1.56B
+ESCA	Escalade, Incorporated	Leisure	160.05M
+ESE	ESCO Technologies Inc.	Scientific & Technical Instruments	2.35B
+ESEA	Euroseas Ltd.	Marine Shipping	144.29M
+ESGR	Enstar Group Limited	Insurance - Diversified	3.96B
+ESI	Element Solutions Inc	Specialty Chemicals	4.38B
+ESLT	Elbit Systems Ltd.	Aerospace & Defense	8.74B
+ESMT	EngageSmart, Inc.	Software - Infrastructure	3.16B
+ESNT	Essent Group Ltd.	Insurance - Specialty	4.81B
+ESOA	Energy Services of America Corporation	Engineering & Construction	34.33M
+ESP	Espey Mfg. & Electronics Corp.	Electrical Equipment & Parts	45.76M
+ESPR	Esperion Therapeutics, Inc.	Drug Manufacturers - Specialty & Generic	131.18M
+ESQ	Esquire Financial Holdings, Inc.	Banks - Regional	344.41M
+ESRT	Empire State Realty Trust, Inc.	REIT - Diversified	1.69B
+ESS	Essex Property Trust, Inc.	REIT - Residential	14.52B
+ESSA	ESSA Bancorp, Inc.	Banks - Regional	153.85M
+ESTA	Establishment Labs Holdings Inc.	Medical Devices	1.66B
+ESTC	Elastic N.V.	Software - Application	6.94B
+ESTE	Earthstone Energy, Inc.	Oil & Gas E&P	1.70B
+ET	Energy Transfer LP	Oil & Gas Midstream	39.63B
+ETAO	ETAO International Co., Ltd.	Health Information Services	44.29M
+ETD	Ethan Allen Interiors Inc.	Furnishings, Fixtures & Appliances	638.04M
+ETN	Eaton Corporation plc	Specialty Industrial Machinery	71.22B
+ETNB	89bio, Inc.	Biotechnology	1.34B
+ETON	Eton Pharmaceuticals, Inc.	Biotechnology	97.87M
+ETR	Entergy Corporation	Utilities - Regulated Electric	20.44B
+ETRN	Equitrans Midstream Corporation	Oil & Gas Midstream	3.91B
+ETSY	Etsy, Inc.	Internet Retail	10.07B
+ETWO	E2open Parent Holdings, Inc.	Software - Application	1.50B
+EU	enCore Energy Corp.	Uranium	302.43M
+EUDA	EUDA Health Holdings Limited	Health Information Services	30.87M
+EURN	Euronav NV	Oil & Gas Midstream	3.01B
+EVA	Enviva Inc.	Lumber & Wood Production	657.20M
+EVAX	Evaxion Biotech A/S	Biotechnology	39.15M
+EVBG	Everbridge, Inc.	Software - Application	1.01B
+EVBN	Evans Bancorp, Inc.	Banks - Regional	130.23M
+EVC	Entravision Communications Corporation	Broadcasting	433.32M
+EVCM	EverCommerce Inc.	Software - Infrastructure	2.11B
+EVE	EVe Mobility Acquisition Corp	Shell Companies	362.66M
+EVER	EverQuote, Inc.	Internet Content & Information	307.45M
+EVEX	Eve Holding, Inc.	Aerospace & Defense	2.09B
+EVGN	Evogene Ltd.	Biotechnology	24.72M
+EVGO	EVgo, Inc.	Specialty Retail	1.18B
+EVGR	Evergreen Corporation	Shell Companies	159.06M
+EVH	Evolent Health, Inc.	Health Information Services	3.33B
+EVI	EVI Industries, Inc.	Industrial Distribution	251.37M
+EVLO	Evelo Biosciences, Inc.	Biotechnology	11.88M
+EVLV	Evolv Technologies Holdings, Inc.	Security & Protection Services	923.97M
+EVO	Evotec SE	Drug Manufacturers - Specialty & Generic	3.97B
+EVOK	Evoke Pharma, Inc.	Drug Manufacturers - Specialty & Generic	5.42M
+EVR	Evercore Inc.	Capital Markets	4.14B
+EVRG	Evergy, Inc.	Utilities - Regulated Electric	13.07B
+EVRI	Everi Holdings Inc.	Gambling	1.26B
+EVTC	EVERTEC, Inc.	Software - Infrastructure	2.28B
+EVTL	Vertical Aerospace Ltd.	Aerospace & Defense	405.93M
+EVTV	Envirotech Vehicles, Inc.	Auto Manufacturers	31.85M
+EW	Edwards Lifesciences Corporation	Medical Devices	51.41B
+EWBC	East West Bancorp, Inc.	Banks - Diversified	6.98B
+EWCZ	European Wax Center, Inc.	Household & Personal Products	1.07B
+EWTX	Edgewise Therapeutics, Inc.	Biotechnology	615.71M
+EXAI	Exscientia plc	Biotechnology	873.40M
+EXAS	Exact Sciences Corporation	Diagnostics & Research	14.85B
+EXC	Exelon Corporation	Utilities - Regulated Electric	39.18B
+EXEL	Exelixis, Inc.	Biotechnology	6.34B
+EXFY	Expensify, Inc.	Software - Application	537.08M
+EXK	Endeavour Silver Corp.	Other Precious Metals & Mining	627.39M
+EXLS	ExlService Holdings, Inc.	Information Technology Services	5.09B
+EXP	Eagle Materials Inc.	Building Materials	5.77B
+EXPD	Expeditors International of Washington, Inc.	Integrated Freight & Logistics	17.06B
+EXPE	Expedia Group, Inc.	Travel Services	14.65B
+EXPI	eXp World Holdings, Inc.	Real Estate Services	2.39B
+EXPO	Exponent, Inc.	Consulting Services	4.68B
+EXPR	Express, Inc.	Apparel Retail	45.15M
+EXR	Extra Space Storage Inc.	REIT - Industrial	20.41B
+EXTR	Extreme Networks, Inc.	Communication Equipment	2.67B
+EYE	National Vision Holdings, Inc.	Specialty Retail	2.02B
+EYEN	Eyenovia, Inc.	Biotechnology	114.39M
+EYPT	EyePoint Pharmaceuticals, Inc.	Biotechnology	202.72M
+EZFL	EZFill Holdings Inc.	Software - Application	7.85M
+EZGO	EZGO Technologies Ltd.	Recreational Vehicles	79.64M
+EZPW	EZCORP, Inc.	Credit Services	463.85M
+F	Ford Motor Company	Auto Manufacturers	47.41B
+FA	First Advantage Corporation	Specialty Business Services	1.99B
+FACT	Freedom Acquisition I Corp.	Shell Companies	215.11M
+FAF	First American Financial Corporation	Insurance - Specialty	5.72B
+FAMI	Farmmi, Inc.	Packaged Foods	10.52M
+FANG	Diamondback Energy, Inc.	Oil & Gas E&P	23.52B
+FANH	Fanhua Inc.	Insurance Brokers	458.61M
+FARM	Farmer Bros. Co.	Packaged Foods	36.28M
+FARO	FARO Technologies, Inc.	Scientific & Technical Instruments	293.00M
+FAST	Fastenal Company	Industrial Distribution	30.81B
+FAT	FAT Brands Inc.	Restaurants	100.91M
+FATBB	FAT Brands Inc.	Restaurants	98.96M
+FATE	Fate Therapeutics, Inc.	Biotechnology	508.65M
+FATH	Fathom Digital Manufacturing Corporation	Computer Hardware	62.75M
+FATP	Fat Projects Acquisition Corp	Shell Companies	36.56M
+FAZE	FaZe Holdings Inc.	Internet Content & Information	38.32M
+FBIN	Fortune Brands Innovations, Inc.	Building Products & Equipment	7.77B
+FBIO	Fortress Biotech, Inc.	Biotechnology	72.68M
+FBIZ	First Business Financial Services, Inc.	Banks - Regional	224.50M
+FBK	FB Financial Corporation	Banks - Regional	1.29B
+FBMS	The First Bancshares, Inc.	Banks - Regional	815.42M
+FBNC	First Bancorp	Banks - Regional	1.26B
+FBP	First BanCorp.	Banks - Regional	2.09B
+FBRT	Franklin BSP Realty Trust, Inc.	REIT - Mortgage	1.12B
+FBRX	Forte Biosciences, Inc.	Biotechnology	21.29M
+FC	Franklin Covey Co.	Consulting Services	512.14M
+FCAP	First Capital, Inc.	Banks - Regional	83.98M
+FCBC	First Community Bankshares, Inc.	Banks - Regional	520.87M
+FCCO	First Community Corporation	Banks - Regional	127.85M
+FCEL	FuelCell Energy, Inc.	Electrical Equipment & Parts	878.41M
+FCF	First Commonwealth Financial Corporation	Banks - Regional	1.33B
+FCFS	FirstCash Holdings, Inc	Credit Services	4.44B
+FCN	FTI Consulting, Inc.	Consulting Services	6.43B
+FCNCA	First Citizens BancShares, Inc.	Banks - Regional	18.24B
+FCPT	Four Corners Property Trust, Inc.	REIT - Retail	2.24B
+FCUV	Focus Universal Inc.	Scientific & Technical Instruments	106.96M
+FCX	Freeport-McMoRan Inc.	Copper	51.28B
+FDBC	Fidelity D & D Bancorp, Inc.	Banks - Regional	216.81M
+FDMT	4D Molecular Therapeutics, Inc.	Biotechnology	768.14M
+FDP	Fresh Del Monte Produce Inc.	Farm Products	1.26B
+FDS	FactSet Research Systems Inc.	Financial Data & Stock Exchanges	14.96B
+FDUS	Fidus Investment Corporation	Asset Management	469.16M
+FDX	FedEx Corporation	Integrated Freight & Logistics	54.61B
+FE	FirstEnergy Corp.	Utilities - Regulated Electric	21.11B
+FEAM	5E Advanced Materials Inc.	Specialty Chemicals	132.89M
+FEDU	Four Seasons Education (Cayman) Inc.	Education & Training Services	17.46M
+FEIM	Frequency Electronics, Inc.	Communication Equipment	62.39M
+FELE	Franklin Electric Co., Inc.	Specialty Industrial Machinery	4.22B
+
 
