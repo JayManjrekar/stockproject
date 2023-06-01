@@ -1965,3 +1965,505 @@ HKD	AMTD Digital Inc.	Software - Application	1.26B
 HKIT	Hitek Global, Inc.	Software - Application	138.33M
 HL	Hecla Mining Company	Gold	3.40B
 HLF	Herbalife Nutrition Ltd.	Packaged Foods	1.19B
+MRCY	Mercury Systems, Inc.	Aerospace & Defense	2.37B
+MRDB	MariaDB plc	Software - Infrastructure	56.88M
+MREO	Mereo BioPharma Group plc	Biotechnology	127.47M
+MRIN	Marin Software Incorporated	Software - Application	12.18M
+MRK	Merck & Co., Inc.	Drug Manufacturers - General	282.70B
+MRKR	Marker Therapeutics, Inc.	Biotechnology	16.45M
+MRM	MEDIROM Healthcare Technologies Inc.	Personal Services	29.00M
+MRNA	Moderna, Inc.	Biotechnology	48.86B
+MRNS	Marinus Pharmaceuticals, Inc.	Biotechnology	365.46M
+MRO	Marathon Oil Corporation	Oil & Gas E&P	14.07B
+MRSN	Mersana Therapeutics, Inc.	Biotechnology	880.77M
+MRTN	Marten Transport, Ltd.	Trucking	1.73B
+MRTX	Mirati Therapeutics, Inc.	Biotechnology	2.16B
+MRUS	Merus N.V.	Biotechnology	1.13B
+MRVI	Maravai LifeSciences Holdings, Inc.	Biotechnology	3.31B
+MRVL	Marvell Technology, Inc.	Semiconductors	52.76B
+MS	Morgan Stanley	Capital Markets	137.43B
+MSA	MSA Safety Incorporated	Security & Protection Services	5.42B
+MSAC	Medicus Sciences Acquisition Corp.	Shell Companies	118.12M
+MSB	Mesabi Trust	Steel	232.09M
+MSBI	Midland States Bancorp, Inc.	Banks - Regional	434.11M
+MSC	Studio City International Holdings Limited	Resorts & Casinos	1.23B
+MSCI	MSCI Inc.	Financial Data & Stock Exchanges	37.51B
+MSEX	Middlesex Water Company	Utilities - Regulated Water	1.40B
+MSFT	Microsoft Corporation	Software - Infrastructure	2,460.51B
+MSGE	Madison Square Garden Entertainment Corp.	Entertainment	1.87B
+MSGM	Motorsport Games Inc.	Electronic Gaming & Multimedia	11.58M
+MSGS	Madison Square Garden Sports Corp.	Entertainment	4.22B
+MSI	Motorola Solutions, Inc.	Communication Equipment	47.27B
+MSM	MSC Industrial Direct Co., Inc.	Industrial Distribution	5.05B
+MSN	Emerson Radio Corp.	Consumer Electronics	11.36M
+MSSA	Metal Sky Star Acquisition Corporation	Shell Companies	92.69M
+MSTR	MicroStrategy Incorporated	Software - Application	3.94B
+MSVB	Mid-Southern Bancorp, Inc.	Banks - Regional	29.05M
+MT	ArcelorMittal S.A.	Steel	21.54B
+MTA	Metalla Royalty & Streaming Ltd.	Other Precious Metals & Mining	226.14M
+MTAC	MedTech Acquisition Corporation	Shell Companies	85.40M
+MTAL	Metals Acquisition Corp	Shell Companies	331.43M
+MTB	M&T Bank Corporation	Banks - Regional	20.04B
+MTC	MMTec, Inc.	Software - Application	66.80M
+MTCH	Match Group, Inc.	Internet Content & Information	10.41B
+MTCR	Metacrine, Inc.	Biotechnology	24.11M
+MTD	Mettler-Toledo International Inc.	Diagnostics & Research	29.37B
+MTDR	Matador Resources Company	Oil & Gas E&P	5.44B
+MTEK	Maris-Tech Ltd.	Electronic Components	6.70M
+MTEM	Molecular Templates, Inc.	Biotechnology	27.26M
+MTEX	Mannatech, Incorporated	Household & Personal Products	23.43M
+MTG	MGIC Investment Corporation	Insurance - Specialty	4.36B
+MTH	Meritage Homes Corporation	Residential Construction	4.32B
+MTLS	Materialise NV	Software - Application	573.54M
+MTN	Vail Resorts, Inc.	Resorts & Casinos	9.95B
+MTNB	Matinas BioPharma Holdings, Inc.	Biotechnology	85.84M
+MTR	Mesa Royalty Trust	Oil & Gas E&P	42.99M
+MTRN	Materion Corporation	Other Industrial Metals & Mining	2.12B
+MTRX	Matrix Service Company	Engineering & Construction	148.76M
+MTRY	Monterey Bio Acquisition Corporation	Shell Companies	52.22M
+MTSI	MACOM Technology Solutions Holdings, Inc.	Semiconductors	4.33B
+MTTR	Matterport, Inc.	Software - Application	859.50M
+MTVC	Motive Capital Corp II	Shell Companies	448.48M
+MTW	The Manitowoc Company, Inc.	Farm & Heavy Construction Machinery	521.17M
+MTX	Minerals Technologies Inc.	Specialty Chemicals	1.82B
+MTZ	MasTec, Inc.	Engineering & Construction	8.03B
+MU	Micron Technology, Inc.	Semiconductors	75.66B
+MUFG	Mitsubishi UFJ Financial Group, Inc.	Banks - Diversified	84.23B
+MULN	Mullen Automotive, Inc.	Auto Manufacturers	124.95M
+MUR	Murphy Oil Corporation	Oil & Gas E&P	5.61B
+MURF	Murphy Canyon Acquisition Corp.	Shell Companies	66.63M
+MUSA	Murphy USA Inc.	Specialty Retail	6.10B
+MUX	McEwen Mining Inc.	Other Precious Metals & Mining	378.00M
+MVBF	MVB Financial Corp.	Banks - Regional	229.84M
+MVIS	MicroVision, Inc.	Scientific & Technical Instruments	866.72M
+MVLA	Movella Holdings Inc.	Software - Application	124.72M
+MVST	Microvast Holdings, Inc.	Electrical Equipment & Parts	389.88M
+MWA	Mueller Water Products, Inc.	Specialty Industrial Machinery	2.16B
+MWG	Multi Ways Holdings Limited	Rental & Leasing Services	18.81M
+MX	Magnachip Semiconductor Corporation	Semiconductors	454.53M
+MXC	Mexco Energy Corporation	Oil & Gas E&P	22.92M
+MXCT	MaxCyte, Inc.	Medical Devices	420.96M
+MXL	MaxLinear, Inc.	Semiconductors	2.31B
+MYE	Myers Industries, Inc.	Packaging & Containers	696.62M
+MYFW	First Western Financial, Inc.	Banks - Regional	163.81M
+MYGN	Myriad Genetics, Inc.	Diagnostics & Research	1.87B
+MYMD	MyMD Pharmaceuticals, Inc.	Biotechnology	64.75M
+MYNA	Mynaric AG	Communication Equipment	151.30M
+MYNZ	Mainz Biomed B.V.	Diagnostics & Research	85.99M
+MYO	Myomo, Inc.	Medical Devices	11.09M
+MYPS	PLAYSTUDIOS, Inc.	Electronic Gaming & Multimedia	589.07M
+MYRG	MYR Group Inc.	Engineering & Construction	2.11B
+MYSZ	My Size, Inc.	Software - Application	3.04M
+MYTE	MYT Netherlands Parent B.V.	Luxury Goods	339.10M
+NA	Nano Labs Ltd	Semiconductors	111.50M
+NAAS	NaaS Technology Inc.	Specialty Retail	1.54B
+NABL	N-able, Inc.	Information Technology Services	2.61B
+NAII	Natural Alternatives International, Inc.	Packaged Foods	45.88M
+NAK	Northern Dynasty Minerals Ltd.	Other Industrial Metals & Mining	117.50M
+NAMS	NewAmsterdam Pharma Company N.V.	Biotechnology	1.12B
+NAOV	NanoVibronix, Inc.	Medical Devices	6.27M
+NAPA	The Duckhorn Portfolio, Inc.	Beverages - Wineries & Distilleries	1.52B
+NARI	Inari Medical, Inc.	Medical Devices	3.56B
+NAT	Nordic American Tankers Limited	Marine Shipping	752.71M
+NATH	Nathan's Famous, Inc.	Restaurants	294.12M
+NATI	National Instruments Corporation	Software - Application	7.66B
+NATR	Nature's Sunshine Products, Inc.	Packaged Foods	212.17M
+NAUT	Nautilus Biotechnology, Inc.	Biotechnology	349.62M
+NAVB	Navidea Biopharmaceuticals, Inc.	Biotechnology	3.24M
+NAVI	Navient Corporation	Credit Services	1.97B
+NB	NioCorp Developments Ltd.	Other Industrial Metals & Mining	154.44M
+NBHC	National Bank Holdings Corporation	Banks - Regional	1.17B
+NBIX	Neurocrine Biosciences, Inc.	Drug Manufacturers - Specialty & Generic	8.96B
+NBN	Northeast Bank	Banks - Regional	276.53M
+NBR	Nabors Industries Ltd.	Oil & Gas Drilling	851.30M
+NBRV	Nabriva Therapeutics plc	Biotechnology	5.08M
+NBSE	NeuBase Therapeutics, Inc.	Biotechnology	5.89M
+NBST	Newbury Street Acquisition Corporation	Shell Companies	91.85M
+NBTB	NBT Bancorp Inc.	Banks - Regional	1.48B
+NBTX	Nanobiotix S.A.	Biotechnology	194.73M
+NBY	NovaBay Pharmaceuticals, Inc.	Biotechnology	1.63M
+NC	NACCO Industries, Inc.	Thermal Coal	236.84M
+NCAC	Newcourt Acquisition Corp	Shell Companies	101.23M
+NCLH	Norwegian Cruise Line Holdings Ltd.	Travel Services	6.52B
+NCMI	National CineMedia, Inc.	Advertising Agencies	45.88M
+NCNA	NuCana plc	Biotechnology	43.08M
+NCNO	nCino, Inc.	Software - Application	2.69B
+NCPL	Netcapital Inc.	Capital Markets	10.77M
+NCR	NCR Corporation	Information Technology Services	3.35B
+NCRA	Nocera, Inc.	Packaged Foods	15.00M
+NCSM	NCS Multistage Holdings, Inc.	Oil & Gas Equipment & Services	41.46M
+NCTY	The9 Limited	Electronic Gaming & Multimedia	21.66M
+NDAQ	Nasdaq, Inc.	Financial Data & Stock Exchanges	27.03B
+NDLS	Noodles & Company	Restaurants	159.24M
+NDRA	ENDRA Life Sciences Inc.	Diagnostics & Research	10.77M
+NDSN	Nordson Corporation	Specialty Industrial Machinery	12.51B
+NE	Noble Corporation	Oil & Gas Drilling	5.54B
+NECB	Northeast Community Bancorp, Inc.	Banks - Regional	205.33M
+NEE	NextEra Energy, Inc.	Utilities - Regulated Electric	146.69B
+NEGG	Newegg Commerce, Inc.	Internet Retail	404.20M
+NEM	Newmont Corporation	Gold	33.62B
+NEN	New England Realty AssociatesLP	Real Estate Services	247.63M
+NEO	NeoGenomics, Inc.	Diagnostics & Research	2.27B
+NEOG	Neogen Corporation	Diagnostics & Research	3.98B
+NEON	Neonode Inc.	Electronic Components	127.94M
+NEOV	NeoVolta Inc.	Electrical Equipment & Parts	96.48M
+NEP	NextEra Energy Partners, LP	Utilities - Renewable	5.40B
+NEPH	Nephros, Inc.	Medical Instruments & Supplies	18.87M
+NEPT	Neptune Wellness Solutions Inc.	Drug Manufacturers - Specialty & Generic	3.06M
+NERV	Minerva Neurosciences, Inc.	Biotechnology	34.19M
+NET	Cloudflare, Inc.	Software - Infrastructure	23.54B
+NETC	Nabors Energy Transition Corp.	Shell Companies	365.70M
+NETI	Eneti Inc.	Marine Shipping	375.65M
+NEU	NewMarket Corporation	Specialty Chemicals	3.84B
+NEWP	New Pacific Metals Corp.	Other Precious Metals & Mining	393.26M
+NEWR	New Relic, Inc.	Software - Infrastructure	4.92B
+NEWT	Newtek Business Services Corp.	Asset Management	311.42M
+NEX	NexTier Oilfield Solutions Inc.	Oil & Gas Equipment & Services	1.81B
+NEXA	Nexa Resources S.A.	Other Industrial Metals & Mining	663.52M
+NEXI	NexImmune, Inc.	Biotechnology	9.04M
+NEXT	NextDecade Corporation	Oil & Gas E&P	831.88M
+NFBK	Northfield Bancorp, Inc. (Staten Island, NY)	Banks - Regional	488.57M
+NFE	New Fortress Energy Inc.	Utilities - Regulated Gas	5.69B
+NFG	National Fuel Gas Company	Oil & Gas Integrated	4.69B
+NFGC	New Found Gold Corp.	Gold	778.21M
+NFLX	Netflix, Inc.	Entertainment	180.44B
+NFNT	Infinite Acquisition Corp.	Shell Companies	363.63M
+NFTG	The NFT Gaming Company, Inc.	Electronic Gaming & Multimedia	8.11M
+NFYS	Enphys Acquisition Corp.	Shell Companies	445.05M
+NG	NovaGold Resources Inc.	Gold	1.76B
+NGD	New Gold Inc.	Gold	864.12M
+NGG	National Grid plc	Utilities - Regulated Electric	49.16B
+NGL	NGL Energy Partners LP	Oil & Gas Midstream	431.39M
+NGM	NGM Biopharmaceuticals, Inc.	Biotechnology	259.84M
+NGMS	NeoGames S.A.	Gambling	914.54M
+NGS	Natural Gas Services Group, Inc.	Oil & Gas Equipment & Services	125.77M
+NGVC	Natural Grocers by Vitamin Cottage, Inc.	Grocery Stores	239.85M
+NGVT	Ingevity Corporation	Specialty Chemicals	1.73B
+NHC	National HealthCare Corporation	Medical Care Facilities	936.69M
+NHI	National Health Investors, Inc.	REIT - Healthcare Facilities	2.29B
+NHTC	Natural Health Trends Corp.	Internet Retail	63.48M
+NHWK	NightHawk Biosciences, Inc.	Biotechnology	17.35M
+NI	NiSource Inc.	Utilities - Regulated Gas	11.01B
+NIC	Nicolet Bankshares, Inc.	Banks - Regional	932.89M
+NICE	NICE Ltd.	Software - Application	13.41B
+NICK	Nicholas Financial, Inc.	Credit Services	34.68M
+NINE	Nine Energy Service, Inc.	Oil & Gas Equipment & Services	108.84M
+NIO	NIO Inc.	Auto Manufacturers	12.83B
+NIR	Near Intelligence, Inc.	Software - Application	85.44M
+NISN	Nisun International Enterprise Development Group Co., Ltd	Credit Services	15.22M
+NIU	Niu Technologies	Auto Manufacturers	271.24M
+NJR	New Jersey Resources Corporation	Utilities - Regulated Gas	4.69B
+NKE	NIKE, Inc.	Footwear & Accessories	159.86B
+NKLA	Nikola Corporation	Farm & Heavy Construction Machinery	441.76M
+NKSH	National Bankshares, Inc.	Banks - Regional	159.02M
+NKTR	Nektar Therapeutics	Biotechnology	116.25M
+NKTX	Nkarta, Inc.	Biotechnology	227.30M
+NL	NL Industries, Inc.	Security & Protection Services	274.83M
+NLS	Nautilus, Inc.	Leisure	40.75M
+NLSP	NLS Pharmaceutics AG	Biotechnology	33.40M
+NLTX	Neoleukin Therapeutics, Inc.	Drug Manufacturers - Specialty & Generic	35.02M
+NLY	Annaly Capital Management, Inc.	REIT - Mortgage	9.45B
+NM	Navios Maritime Holdings Inc.	Marine Shipping	37.69M
+NMFC	New Mountain Finance Corporation	Asset Management	1.21B
+NMG	Nouveau Monde Graphite Inc.	Other Industrial Metals & Mining	210.75M
+NMIH	NMI Holdings, Inc.	Insurance - Specialty	2.12B
+NMM	Navios Maritime Partners L.P.	Marine Shipping	588.44M
+NMR	Nomura Holdings, Inc.	Capital Markets	10.73B
+NMRD	Nemaura Medical Inc.	Medical Devices	15.03M
+NMRK	Newmark Group, Inc.	Real Estate Services	1.38B
+NMTC	NeuroOne Medical Technologies Corporation	Medical Devices	20.37M
+NMTR	9 Meters Biopharma, Inc.	Biotechnology	10.28M
+NN	NextNav Inc.	Internet Content & Information	288.15M
+NNBR	NN, Inc.	Conglomerates	84.00M
+NNDM	Nano Dimension Ltd.	Computer Hardware	623.41M
+NNI	Nelnet, Inc.	Credit Services	3.49B
+NNN	National Retail Properties, Inc.	REIT - Retail	7.75B
+NNOX	Nano-X Imaging Ltd.	Medical Devices	1.04B
+NNVC	NanoViricides, Inc.	Biotechnology	15.63M
+NOA	North American Construction Group Ltd.	Oil & Gas Equipment & Services	491.21M
+NOAH	Noah Holdings Limited	Asset Management	1.27B
+NOC	Northrop Grumman Corporation	Aerospace & Defense	66.32B
+NODK	NI Holdings, Inc.	Insurance - Property & Casualty	284.92M
+NOG	Northern Oil and Gas, Inc.	Oil & Gas E&P	2.82B
+NOGN	Nogin, Inc.	Software - Application	13.75M
+NOK	Nokia Oyj	Communication Equipment	22.60B
+NOMD	Nomad Foods Limited	Packaged Foods	3.02B
+NOTE	FiscalNote Holdings, Inc.	Information Technology Services	289.19M
+NOTV	Inotiv, Inc.	Diagnostics & Research	154.43M
+NOV	NOV Inc.	Oil & Gas Equipment & Services	5.84B
+NOVA	Sunnova Energy International Inc.	Solar	2.11B
+NOVN	Novan, Inc.	Biotechnology	32.50M
+NOVT	Novanta Inc.	Scientific & Technical Instruments	6.04B
+NOVV	Nova Vision Acquisition Corporation	Shell Companies	38.57M
+NOW	ServiceNow, Inc.	Software - Application	111.14B
+NPAB	New Providence Acquisition Corp. II	Shell Companies	121.51M
+NPCE	NeuroPace, Inc.	Medical Devices	113.05M
+NPK	National Presto Industries, Inc.	Aerospace & Defense	536.91M
+NPO	EnPro Industries, Inc.	Specialty Industrial Machinery	2.12B
+NR	Newpark Resources, Inc.	Oil & Gas Equipment & Services	308.43M
+NRAC	Noble Rock Acquisition Corporation	Shell Companies	88.59M
+NRBO	NeuroBo Pharmaceuticals, Inc.	Biotechnology	15.12M
+NRC	National Research Corporation	Health Information Services	1.08B
+NRDS	NerdWallet, Inc.	Credit Services	745.10M
+NRDY	Nerdy, Inc.	Software - Application	254.36M
+NREF	NexPoint Real Estate Finance, Inc.	REIT - Mortgage	306.43M
+NRG	NRG Energy, Inc.	Utilities - Independent Power Producers	7.52B
+NRGV	Energy Vault Holdings, Inc.	Utilities - Renewable	311.49M
+NRIM	Northrim BanCorp, Inc.	Banks - Regional	218.68M
+NRIX	Nurix Therapeutics, Inc.	Biotechnology	487.26M
+NRP	Natural Resource Partners L.P.	Thermal Coal	588.90M
+NRSN	NeuroSense Therapeutics Ltd.	Biotechnology	18.41M
+NRT	North European Oil Royalty Trust	Oil & Gas E&P	119.71M
+NRXP	NRx Pharmaceuticals, Inc.	Biotechnology	51.33M
+NS	NuStar Energy L.P.	Oil & Gas Midstream	1.84B
+NSA	National Storage Affiliates Trust	REIT - Industrial	5.21B
+NSC	Norfolk Southern Corporation	Railroads	48.08B
+NSIT	Insight Enterprises, Inc.	Electronics & Computer Distribution	4.52B
+NSP	Insperity, Inc.	Staffing & Employment Services	4.29B
+NSPR	InspireMD, Inc.	Medical Devices	39.63M
+NSSC	Napco Security Technologies, Inc.	Security & Protection Services	1.35B
+NSTB	Northern Star Investment Corp. II	Shell Companies	119.35M
+NSTC	Northern Star Investment Corp. III	Shell Companies	142.80M
+NSTD	Northern Star Investment Corp. IV	Shell Companies	144.08M
+NSTG	NanoString Technologies, Inc.	Medical Instruments & Supplies	272.88M
+NSTS	NSTS Bancorp, Inc.	Banks - Regional	46.96M
+NSYS	Nortech Systems Incorporated	Electronic Components	25.95M
+NTAP	NetApp, Inc.	Computer Hardware	15.50B
+NTB	The Bank of N.T. Butterfield & Son Limited	Banks - Diversified	1.30B
+NTCO	Natura &Co Holding S.A.	Household & Personal Products	3.86B
+NTCT	NetScout Systems, Inc.	Software - Infrastructure	2.18B
+NTES	NetEase, Inc.	Electronic Gaming & Multimedia	58.22B
+NTGR	NETGEAR, Inc.	Communication Equipment	417.24M
+NTIC	Northern Technologies International Corporation	Specialty Chemicals	105.93M
+NTIP	Network-1 Technologies, Inc.	Specialty Business Services	52.36M
+NTLA	Intellia Therapeutics, Inc.	Biotechnology	3.36B
+NTNX	Nutanix, Inc.	Software - Infrastructure	7.13B
+NTR	Nutrien Ltd.	Agricultural Inputs	27.70B
+NTRA	Natera, Inc.	Diagnostics & Research	5.55B
+NTRB	Nutriband Inc.	Biotechnology	26.66M
+NTRS	Northern Trust Corporation	Asset Management	15.20B
+NTST	NETSTREIT Corp.	REIT - Retail	1.12B
+NTWK	NetSol Technologies, Inc.	Software - Application	25.08M
+NTZ	Natuzzi S.p.A.	Furnishings, Fixtures & Appliances	66.09M
+NU	Nu Holdings Ltd.	Banks - Diversified	32.09B
+NUBI	Nubia Brand International Corp.	Shell Companies	164.32M
+NUE	Nucor Corporation	Steel	33.49B
+NURO	NeuroMetrix, Inc.	Medical Devices	7.53M
+NUS	Nu Skin Enterprises, Inc.	Household & Personal Products	1.66B
+NUTX	Nutex Health, Inc.	Health Information Services	279.43M
+NUVA	NuVasive, Inc.	Medical Devices	2.03B
+NUVB	Nuvation Bio Inc.	Biotechnology	355.56M
+NUVL	Nuvalent, Inc.	Biotechnology	2.47B
+NUWE	Nuwellis, Inc.	Medical Devices	3.15M
+NUZE	NuZee, Inc.	Packaged Foods	8.74M
+NVAC	NorthView Acquisition Corporation	Shell Companies	63.96M
+NVAX	Novavax, Inc.	Biotechnology	680.08M
+NVCR	NovoCure Limited	Medical Instruments & Supplies	8.03B
+NVCT	Nuvectis Pharma, Inc.	Biotechnology	281.01M
+NVDA	NVIDIA Corporation	Semiconductors	980.24B
+NVEC	NVE Corporation	Semiconductors	430.67M
+NVEE	NV5 Global, Inc.	Engineering & Construction	1.43B
+NVEI	Nuvei Corporation	Software - Infrastructure	4.30B
+NVFY	Nova LifeStyle, Inc.	Furnishings, Fixtures & Appliances	3.91M
+NVGS	Navigator Holdings Ltd.	Oil & Gas Midstream	967.29M
+NVIV	InVivo Therapeutics Holdings Corp.	Biotechnology	3.96M
+NVMI	Nova Ltd.	Semiconductor Equipment & Materials	3.18B
+NVNO	enVVeno Medical Corporation	Medical Devices	27.94M
+NVO	Novo Nordisk A/S	Biotechnology	355.49B
+NVOS	Novo Integrated Sciences, Inc.	Medical Care Facilities	18.63M
+NVR	NVR, Inc.	Residential Construction	18.03B
+NVRO	Nevro Corp.	Medical Devices	970.29M
+NVS	Novartis AG	Drug Manufacturers - General	205.58B
+NVST	Envista Holdings Corporation	Medical Instruments & Supplies	5.26B
+NVT	nVent Electric plc	Electrical Equipment & Parts	7.25B
+NVTA	Invitae Corporation	Diagnostics & Research	278.92M
+NVTS	Navitas Semiconductor Corporation	Semiconductors	1.51B
+NVVE	Nuvve Holding Corp.	Specialty Retail	14.88M
+NVX	Novonix Limited	Electrical Equipment & Parts	304.24M
+NWBI	Northwest Bancshares, Inc.	Banks - Regional	1.37B
+NWE	NorthWestern Corporation	Utilities - Diversified	3.35B
+NWFL	Norwood Financial Corp.	Banks - Regional	202.86M
+NWG	NatWest Group plc	Banks - Diversified	29.80B
+NWL	Newell Brands Inc.	Household & Personal Products	3.41B
+NWLI	National Western Life Group, Inc.	Insurance - Life	1.37B
+NWN	Northwest Natural Holding Company	Utilities - Regulated Gas	1.52B
+NWPX	Northwest Pipe Company	Metal Fabrication	269.17M
+NWS	News Corporation	Entertainment	10.73B
+NWSA	News Corporation	Entertainment	10.72B
+NWTN	NWTN Inc.	Auto & Truck Dealerships	3.01B
+NX	Quanex Building Products Corporation	Building Products & Equipment	703.66M
+NXE	NexGen Energy Ltd.	Uranium	2.08B
+NXGL	NEXGEL, Inc.	Medical Instruments & Supplies	13.14M
+NXGN	NextGen Healthcare, Inc.	Health Information Services	1.04B
+NXL	Nexalin Technology, Inc.	Medical Devices	6.72M
+NXPI	NXP Semiconductors N.V.	Semiconductors	47.16B
+NXPL	NextPlat Corp	Software - Application	42.90M
+NXRT	NexPoint Residential Trust, Inc.	REIT - Residential	2.10B
+NXST	Nexstar Media Group, Inc.	Entertainment	5.50B
+NXT	Nextracker Inc.	Solar	4.55B
+NXTC	NextCure, Inc.	Biotechnology	47.04M
+NXTP	NextPlay Technologies, Inc.	Software - Infrastructure	6.71M
+NXU	Nxu, Inc.	Shell Companies	795.62M
+NYAX	Nayax Ltd.	Information Technology Services	603.18M
+NYC	New York City REIT, Inc.	REIT - Office	19.79M
+NYCB	New York Community Bancorp, Inc.	Banks - Regional	7.60B
+NYMT	New York Mortgage Trust, Inc.	REIT - Mortgage	903.59M
+NYMX	Nymox Pharmaceutical Corporation	Biotechnology	39.24M
+NYT	The New York Times Company	Publishing	5.91B
+NYXH	Nyxoah S.A.	Medical Instruments & Supplies	225.28M
+O	Realty Income Corporation	REIT - Retail	39.68B
+OABI	OmniAb, Inc.	Biotechnology	498.24M
+OAKU	Oak Woods Acquisition Corporation	Shell Companies	16.73M
+OB	Outbrain Inc.	Internet Content & Information	245.02M
+OBE	Obsidian Energy Ltd.	Oil & Gas E&P	521.10M
+OBIO	Orchestra BioMed Holdings, Inc.	Biotechnology	414.65M
+OBK	Origin Bancorp, Inc.	Banks-Regional	869.06M
+OBLG	Oblong, Inc.	Software - Application	4.36M
+OBT	Orange County Bancorp, Inc.	Banks - Regional	177.18M
+OC	Owens Corning	Building Products & Equipment	9.66B
+OCAX	OCA Acquisition Corp.	Shell Companies	82.65M
+OCC	Optical Cable Corporation	Communication Equipment	32.22M
+OCCI	OFS Credit Company, Inc.	Asset Management	96.23M
+OCEA	Ocean Biomedical, Inc.	Biotechnology	176.53M
+OCFC	OceanFirst Financial Corp.	Banks - Regional	866.12M
+OCFT	OneConnect Financial Technology Co., Ltd.	Software - Application	175.12M
+OCG	Oriental Culture Holding LTD	Internet Retail	13.16M
+OCGN	Ocugen, Inc.	Biotechnology	117.24M
+OCN	Ocwen Financial Corporation	Mortgage Finance	201.02M
+OCS	Oculis Holding AG	Biotechnology	165.30M
+OCSL	Oaktree Specialty Lending Corporation	Credit Services	1.44B
+OCTO	Eightco Holdings Inc.	Packaging & Containers	4.27M
+OCUL	Ocular Therapeutix, Inc.	Biotechnology	497.79M
+OCUP	Ocuphire Pharma, Inc.	Biotechnology	85.60M
+OCX	OncoCyte Corporation	Biotechnology	37.55M
+ODC	Oil-Dri Corporation of America	Specialty Chemicals	274.67M
+ODFL	Old Dominion Freight Line, Inc.	Trucking	34.53B
+ODP	The ODP Corporation	Specialty Retail	1.56B
+ODV	Osisko Development Corp.	Gold	390.83M
+OEC	Orion Engineered Carbons S.A.	Specialty Chemicals	1.41B
+OESX	Orion Energy Systems, Inc.	Electrical Equipment & Parts	46.67M
+OFC	Corporate Office Properties Trust	REIT - Office	2.55B
+OFED	Oconee Federal Financial Corp.	Banks - Regional	89.97M
+OFG	OFG Bancorp	Banks - Regional	1.18B
+OFIX	Orthofix Medical Inc.	Medical Devices	690.32M
+OFLX	Omega Flex, Inc.	Specialty Industrial Machinery	1.08B
+OFS	OFS Capital Corporation	Asset Management	124.87M
+OGE	OGE Energy Corp.	Utilities - Regulated Electric	6.99B
+OGEN	Oragenics, Inc.	Biotechnology	5.84M
+OGI	OrganiGram Holdings Inc.	Drug Manufacturers - Specialty & Generic	133.39M
+OGN	Organon & Co.	Drug Manufacturers - General	4.98B
+OGS	ONE Gas, Inc.	Utilities - Regulated Gas	4.39B
+OHAA	OPY Acquisition Corp. I	Shell Companies	89.89M
+OHI	Omega Healthcare Investors, Inc.	REIT - Healthcare Facilities	6.92B
+OI	O-I Glass, Inc.	Packaging & Containers	3.26B
+OIG	Orbital Infrastructure Group, Inc.	Engineering & Construction	9.72M
+OII	Oceaneering International, Inc.	Oil & Gas Equipment & Services	1.62B
+OIS	Oil States International, Inc.	Oil & Gas Equipment & Services	425.04M
+OKE	ONEOK, Inc.	Oil & Gas Midstream	25.62B
+OKTA	Okta, Inc.	Software - Infrastructure	12.08B
+OKYO	OKYO Pharma Limited	Biotechnology	12.95M
+OLB	The OLB Group, Inc.	Software - Application	9.74M
+OLED	Universal Display Corporation	Semiconductor Equipment & Materials	7.03B
+OLIT	OmniLit Acquisition Corp.	Shell Companies	60.38M
+OLK	Olink Holding AB (publ)	Diagnostics & Research	2.37B
+OLLI	Ollie's Bargain Outlet Holdings, Inc.	Discount Stores	3.34B
+OLMA	Olema Pharmaceuticals, Inc.	Biotechnology	234.79M
+OLN	Olin Corporation	Specialty Chemicals	6.25B
+OLO	Olo Inc.	Software - Application	1.10B
+OLP	One Liberty Properties, Inc.	REIT - Diversified	428.77M
+OLPX	Olaplex Holdings, Inc.	Specialty Retail	2.04B
+OM	Outset Medical, Inc.	Medical Devices	1.07B
+OMAB	Grupo Aeroportuario del Centro Norte, SAB de CV	Airports & Air Services	4.59B
+OMC	Omnicom Group Inc.	Advertising Agencies	17.82B
+OMCL	Omnicell, Inc.	Health Information Services	3.31B
+OMER	Omeros Corporation	Biotechnology	431.01M
+OMEX	Odyssey Marine Exploration, Inc.	Specialty Business Services	69.88M
+OMF	OneMain Holdings, Inc.	Credit Services	4.66B
+OMGA	Omega Therapeutics, Inc.	Biotechnology	403.48M
+OMH	Ohmyhome Limited	Real Estate Services	87.44M
+OMI	Owens & Minor, Inc.	Medical Distribution	1.56B
+OMIC	Singular Genomics Systems, Inc.	Medical Instruments & Supplies	71.39M
+OMQS	OMNIQ Corp.	Software - Application	42.31M
+ON	ON Semiconductor Corporation	Semiconductors	37.78B
+ONB	Old National Bancorp	Banks - Regional	3.72B
+ONCR	Oncorus, Inc.	Biotechnology	4.74M
+ONCS	OncoSec Medical Incorporated	Biotechnology	2.75M
+ONCT	Oncternal Therapeutics, Inc.	Biotechnology	17.02M
+ONCY	Oncolytics Biotech Inc.	Biotechnology	116.82M
+ONDS	Ondas Holdings Inc.	Communication Equipment	43.93M
+ONEW	OneWater Marine Inc.	Recreational Vehicles	437.75M
+ONFO	Onfolio Holdings, Inc.	Internet Content & Information	6.85M
+ONL	Orion Office REIT Inc.	REIT - Office	322.70M
+ONON	On Holding AG	Apparel Retail	8.63B
+ONTF	ON24, Inc.	Software - Application	360.26M
+ONTO	Onto Innovation Inc.	Semiconductor Equipment & Materials	5.21B
+ONTX	Onconova Therapeutics, Inc.	Biotechnology	25.16M
+ONVO	Organovo Holdings, Inc.	Biotechnology	14.90M
+ONYX	Onyx Acquisition Co. I	Shell Companies	115.48M
+OOMA	Ooma, Inc.	Telecom Services	343.33M
+OP	OceanPal Inc.	Marine Shipping	4.59M
+OPA	Magnum Opus Acquisition Limited	Shell Companies	120.36M
+OPAD	Offerpad Solutions Inc.	Real Estate Services	251.02M
+OPAL	OPAL Fuels Inc.	Utilities - Regulated Gas	1.10B
+OPBK	OP Bancorp	Banks - Regional	121.30M
+OPCH	Option Care Health, Inc.	Medical Care Facilities	4.98B
+OPEN	Opendoor Technologies Inc.	Real Estate Services	1.75B
+OPFI	OppFi Inc.	Software - Application	232.10M
+OPGN	OpGen, Inc.	Diagnostics & Research	4.36M
+OPHC	OptimumBank Holdings, Inc.	Banks - Regional	20.91M
+OPI	Office Properties Income Trust	REIT - Office	349.42M
+OPK	OPKO Health, Inc.	Diagnostics & Research	1.06B
+OPOF	Old Point Financial Corporation	Banks - Regional	81.16M
+OPRA	Opera Limited	Internet Content & Information	1.59B
+OPRT	Oportun Financial Corporation	Credit Services	193.16M
+OPRX	OptimizeRx Corporation	Health Information Services	248.69M
+OPT	Opthea Limited	Biotechnology	181.51M
+OPTN	OptiNose, Inc.	Drug Manufacturers - Specialty & Generic	139.39M
+OPTT	Ocean Power Technologies, Inc.	Electrical Equipment & Parts	29.16M
+OPXS	Optex Systems Holdings, Inc	Aerospace & Defense	21.03M
+OPY	Oppenheimer Holdings Inc.	Capital Markets	423.05M
+OR	Osisko Gold Royalties Ltd	Gold	2.99B
+ORA	Ormat Technologies, Inc.	Utilities - Renewable	5.05B
+ORAN	Orange S.A.	Telecom Services	31.00B
+ORC	Orchid Island Capital, Inc.	REIT - Mortgage	397.41M
+ORCC	Owl Rock Capital Corporation	Credit Services	5.33B
+ORCL	Oracle Corporation	Software - Infrastructure	285.14B
+ORGN	Origin Materials, Inc.	Chemicals	616.77M
+ORGO	Organogenesis Holdings Inc.	Drug Manufacturers - Specialty & Generic	481.73M
+ORGS	Orgenesis Inc.	Biotechnology	33.16M
+ORI	Old Republic International Corporation	Insurance - Diversified	7.12B
+ORIC	ORIC Pharmaceuticals, Inc.	Biotechnology	239.44M
+ORLA	Orla Mining Ltd.	Gold	1.40B
+ORLY	O'Reilly Automotive, Inc.	Specialty Retail	55.00B
+ORMP	Oramed Pharmaceuticals Inc.	Biotechnology	168.52M
+ORN	Orion Group Holdings, Inc.	Engineering & Construction	78.83M
+ORRF	Orrstown Financial Services, Inc.	Banks - Regional	196.54M
+ORTX	Orchard Therapeutics plc	Biotechnology	89.87M
+OSA	ProSomnus, Inc.	Medical Devices	79.10M
+OSBC	Old Second Bancorp, Inc.	Banks - Regional	534.64M
+OSCR	Oscar Health, Inc.	Healthcare Plans	1.60B
+OSG	Overseas Shipholding Group, Inc.	Oil & Gas Midstream	296.68M
+OSI	Osiris Acquisition Corp.	Shell Companies	88.31M
+OSIS	OSI Systems, Inc.	Electronic Components	2.02B
+OSK	Oshkosh Corporation	Farm & Heavy Construction Machinery	5.02B
+OSPN	OneSpan Inc.	Software - Infrastructure	591.25M
+OSS	One Stop Systems, Inc.	Computer Hardware	52.53M
+OST	Ostin Technology Group Co., Ltd.	Electronic Components	14.15M
+OSTK	Overstock.com, Inc.	Internet Retail	832.57M
+OSUR	OraSure Technologies, Inc.	Medical Instruments & Supplies	406.24M
+OSW	OneSpaWorld Holdings Limited	Leisure	1.09B
+OTEC	OceanTech Acquisitions I Corp.	Shell Companies	49.14M
+OTEX	Open Text Corporation	Software - Application	11.19B
+OTIS	Otis Worldwide Corporation	Specialty Industrial Machinery	33.34B
+OTLK	Outlook Therapeutics, Inc.	Biotechnology	406.82M
+OTLY	Oatly Group AB	Beverages - Non-Alcoholic	935.87M
+OTMO	Otonomo Technologies Ltd.	Software - Application	56.77M
+OTRK	Ontrak, Inc.	Health Information Services	13.19M
+OTTR	Otter Tail Corporation	Utilities - Diversified	3.07B
+OUST	Ouster, Inc.	Electronic Components	279.66M
+OUT	Outfront Media Inc.	REIT - Specialty	2.30B
+OVBC	Ohio Valley Banc Corp.	Banks - Regional	117.50M
+OVID	Ovid Therapeutics Inc.	Biotechnology	262.34M
+OVLY	Oak Valley Bancorp	Banks - Regional	192.42M
+
+
