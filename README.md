@@ -1,6 +1,6 @@
 # jarp-stock-bot README
 
-Members: 
+Members-
 Aryan Shah, Jay Manjrekar, Pranav Sarathy, Ritvik Keerthi
 
 
