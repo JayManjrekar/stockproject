@@ -2465,5 +2465,55 @@ OUT	Outfront Media Inc.	REIT - Specialty	2.30B
 OVBC	Ohio Valley Banc Corp.	Banks - Regional	117.50M
 OVID	Ovid Therapeutics Inc.	Biotechnology	262.34M
 OVLY	Oak Valley Bancorp	Banks - Regional	192.42M
-
+HLGN	Heliogen, Inc.	Utilities - Renewable	49.22M
+HLI	Houlihan Lokey, Inc.	Capital Markets	5.95B
+HLIO	Helios Technologies, Inc.	Specialty Industrial Machinery	1.67B
+HLIT	Harmonic Inc.	Communication Equipment	1.94B
+HLLY	Holley Inc.	Auto Parts	360.71M
+HLMN	Hillman Solutions Corp.	Tools & Accessories	1.58B
+HLN	Haleon plc	Drug Manufacturers - Specialty & Generic	37.56B
+HLNE	Hamilton Lane Incorporated	Asset Management	3.73B
+HLP	Hongli Group Inc.	Steel	24.50M
+HLT	Hilton Worldwide Holdings Inc.	Lodging	36.61B
+HLTH	Cue Health Inc.	Health Information Services	108.67M
+HLVX	HilleVax, Inc.	Biotechnology	725.99M
+HLX	Helix Energy Solutions Group, Inc.	Oil & Gas Equipment & Services	987.34M
+HMA	Heartland Media Acquisition Corp.	Shell Companies	252.38M
+HMAC	Hainan Manaslu Acquisition Corp.	Shell Companies	94.15M
+HMC	Honda Motor Co., Ltd.	Auto Manufacturers	47.69B
+HMN	Horace Mann Educators Corporation	Insurance - Property & Casualty	1.25B
+HMNF	HMN Financial, Inc.	Banks - Regional	82.88M
+HMPT	Home Point Capital Inc.	Mortgage Finance	319.87M
+HMST	HomeStreet, Inc.	Banks - Regional	101.66M
+HMY	Harmony Gold Mining Company Limited	Gold	3.00B
+HNI	HNI Corporation	Business Equipment & Supplies	1.07B
+HNNA	Hennessy Advisors, Inc.	Asset Management	55.61M
+HNRA	HNR Acquisition Corp	Shell Companies	79.37M
+HNRG	Hallador Energy Company	Thermal Coal	263.77M
+HNST	The Honest Company, Inc.	Specialty Retail	140.15M
+HNVR	Hanover Bancorp, Inc.	Banks - Regional	127.11M
+HOFT	Hooker Furnishings Corporation	Furnishings, Fixtures & Appliances	169.12M
+HOFV	Hall of Fame Resort & Entertainment Company	Entertainment	37.77M
+HOG	Harley-Davidson, Inc.	Recreational Vehicles	4.51B
+HOLI	Hollysys Automation Technologies Ltd.	Electrical Equipment & Parts	991.09M
+HOLO	MicroCloud Hologram Inc.	Electronic Components	117.38M
+HOLX	Hologic, Inc.	Medical Instruments & Supplies	19.44B
+HOMB	Home Bancshares, Inc. (Conway, AR)	Banks - Regional	4.44B
+HON	Honeywell International Inc.	Conglomerates	128.88B
+HONE	HarborOne Bancorp, Inc.	Banks - Regional	396.95M
+HOOD	Robinhood Markets, Inc.	Software - Infrastructure	8.15B
+HOOK	HOOKIPA Pharma Inc.	Biotechnology	61.02M
+HOPE	Hope Bancorp, Inc.	Banks - Regional	989.97M
+HOTH	Hoth Therapeutics, Inc.	Biotechnology	5.94M
+HOUR	Hour Loop, Inc.	Internet Retail	65.56M
+HOUS	Anywhere Real Estate Inc.	Real Estate Services	701.40M
+HOV	Hovnanian Enterprises, Inc.	Residential Construction	449.37M
+HOWL	Werewolf Therapeutics, Inc.	Biotechnology	123.93M
+HP	Helmerich & Payne, Inc.	Oil & Gas Drilling	3.26B
+HPCO	Hempacco Co., Inc.	Drug Manufacturers - Specialty & Generic	14.00M
+HPE	Hewlett Packard Enterprise Company	Communication Equipment	19.17B
+HPK	HighPeak Energy, Inc.	Oil & Gas E&P	1.44B
+HPLT	Home Plate Acquisition Corp.	Shell Companies	73.60M
+HPP	Hudson Pacific Properties, Inc.	REIT - Office	1.31B
+HPQ	HP Inc.
 
