@@ -1112,5 +1112,25 @@ FEAM	5E Advanced Materials Inc.	Specialty Chemicals	132.89M
 FEDU	Four Seasons Education (Cayman) Inc.	Education & Training Services	17.46M
 FEIM	Frequency Electronics, Inc.	Communication Equipment	62.39M
 FELE	Franklin Electric Co., Inc.	Specialty Industrial Machinery	4.22B
-
+FEIM	Frequency Electronics, Inc.	Communication Equipment	62.39M
+FELE	Franklin Electric Co., Inc.	Specialty Industrial Machinery	4.22B
+FEMY	Femasys Inc.	Medical Instruments & Supplies	10.57M
+FENC	Fennec Pharmaceuticals Inc.	Biotechnology	204.09M
+FENG	Phoenix New Media Limited	Internet Content & Information	26.25M
+FERG	Ferguson plc	Industrial Distribution	29.79B
+FET	Forum Energy Technologies, Inc.	Oil & Gas Equipment & Services	228.16M
+FEXD	Fintech Ecosystem Development Corp.	Shell Companies	152.12M
+FF	FutureFuel Corp.	Chemicals	370.67M
+FFBC	First Financial Bancorp.	Banks - Regional	1.86B
+FFIC	Flushing Financial Corporation	Banks - Regional	349.15M
+FFIE	Faraday Future Intelligent Electric Inc.	Auto Manufacturers	295.25M
+FFIN	First Financial Bankshares, Inc.	Banks - Regional	3.82B
+FFIV	F5, Inc.	Software - Infrastructure	8.94B
+FFNW	First Financial Northwest, Inc.	Banks - Regional	92.85M
+FFWM	First Foundation Inc.	Banks - Regional	234.44M
+FG	F&G Annuities & Life, Inc.	Insurance - Life	2.57B
+FGBI	First Guaranty Bancshares, Inc.	Banks - Regional	146.83M
+FGEN	FibroGen, Inc.	Biotechnology	1.71B
+FGF	FG Financial Group, Inc.	Insurance - Diversified	16.52M
+FGH	FG Group Holdings Inc.	Leisure	36.41M
 
