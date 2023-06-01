@@ -8,7 +8,7 @@ Aryan Shah, Jay Manjrekar, Pranav Sarathy, Ritvik Keerthi
 
 Project Description-
 
-Title: Stock Bot: Automated Trading System Using API Integration
+Title: Stock Bot- Automated Trading System Using API Integration
 
 Description:
 The Stock Bot project aims to develop an intelligent and automated trading system that leverages the power of an Application Programming Interface (API) to gather real-time stock market data and make informed investment decisions. This project combines the realms of finance, programming, and data analysis to create a robust tool for traders and investors. Through creating this STock Bot Project, we hope to develop a better software, allowing for all people getting into stock to be able to understand how stocks work better and how they can be used in many ways to be helpful.
