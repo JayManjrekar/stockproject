@@ -651,11 +651,6 @@ Note: The project's scope and features can be adjusted based on the available AP
 
 
 
-
-
-
-Our client Catherine Smith, principal of Placer high school, was forced to deny participation in the graduation to Erik Starr because he altered his graduation cap. Before this, he had asked for permission to wear it however was denied. Smith was forced to disallow the feather due to the fact that in  In 2014, a protest over student alteration occurred among the students in the middle of the ceremony, which disrupted the event. After this incident, any requests for alterations were denied even though numerous requests for alternations occur yearly. Starr is of Cherokee descent, and the feather has a significant spiritual meaning. However, there is a strict universal code at the school against any form of alteration so that the educational process is not disrupted, which is the power given to the school and its administration. Oklahoma does have a law that permits students to wear Native American and religious attachments at public high schools. However, schools can suppress speech, including the free exercise clause, if the educational process is disrupted. As a result, the law is not universally true, as many schools and districts deny students' requests.
-
 While we respect the cultural significance of the eagle feather to Mr. Starr and his Cherokee heritage, it is crucial to consider the larger educational context. The idea here is to minimize disruptions to the educational environment. Furthermore, it is essential to note the distinction between the right to express one’s religious beliefs to the right to disrupt an event that is a part of the educational process. Our first argument is built upon this difference. We want to differentiate the demand for an exception to an applied policy that everyone must follow, which could potentially cause disruptions from the right to exercise one's religion freely.
 
 
