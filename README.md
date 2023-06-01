@@ -1753,4 +1753,193 @@ ITAQ	Industrial Tech Acquisitions II, Inc.	Shell Companies	58.82M
 ITCI	Intra-Cellular Therapies, Inc.	Drug Manufacturers - Specialty & Generic	5.71B
 ITCL	Banco Itaú Chile	Banks-Regional	2.25B
 ITGR	Integer Holdings Corporation	Medical Devices	2.74B
+GLST	Global Star Acquisition, Inc.	Shell Companies	126.83M
+GLT	Glatfelter Corporation	Paper & Paper Products	128.06M
+GLTA	Galata Acquisition Corp.	Shell Companies	188.85M
+GLTO	Galecto, Inc.	Biotechnology	54.68M
+GLUE	Monte Rosa Therapeutics, Inc.	Biotechnology	379.27M
+GLW	Corning Incorporated	Electronic Components	26.30B
+GLYC	GlycoMimetics, Inc.	Biotechnology	124.96M
+GM	General Motors Company	Auto Manufacturers	45.81B
+GMAB	Genmab A/S	Biotechnology	25.79B
+GMBL	Esports Entertainment Group, Inc.	Gambling	6.45M
+GMDA	Gamida Cell Ltd.	Biotechnology	226.48M
+GME	GameStop Corp.	Specialty Retail	7.40B
+GMED	Globus Medical, Inc.	Medical Devices	5.64B
+GMFI	Aetherium Acquisition Corp.	Shell Companies	126.54M
+GMGI	Golden Matrix Group, Inc.	Electronic Gaming & Multimedia	83.09M
+GMRE	Global Medical REIT Inc.	REIT - Healthcare Facilities	604.26M
+GMS	GMS Inc.	Building Products & Equipment	2.63B
+GMVD	G Medical Innovations Holdings Ltd	Medical Instruments & Supplies	2.98M
+GNE	Genie Energy Ltd.	Utilities - Regulated Electric	378.75M
+GNFT	Genfit S.A.	Biotechnology	208.81M
+GNK	Genco Shipping & Trading Limited	Marine Shipping	545.37M
+GNL	Global Net Lease, Inc.	REIT - Diversified	1.01B
+GNLN	Greenlane Holdings, Inc.	Tobacco	4.91M
+GNLX	Genelux Corporation	Biotechnology	665.47M
+GNPX	Genprex, Inc.	Biotechnology	46.59M
+GNRC	Generac Holdings Inc.	Specialty Industrial Machinery	6.97B
+GNS	Genius Group Limited	Education & Training Services	21.14M
+GNSS	Genasys Inc.	Scientific & Technical Instruments	98.01M
+GNTA	Genenta Science S.p.A.	Biotechnology	108.39M
+GNTX	Gentex Corporation	Auto Parts	6.17B
+GNTY	Guaranty Bancshares, Inc.	Banks - Regional	289.00M
+GNUS	Genius Brands International, Inc.	Entertainment	78.05M
+GNW	Genworth Financial, Inc.	Insurance - Life	2.59B
+GO	Grocery Outlet Holding Corp.	Grocery Stores	2.75B
+GOCO	GoHealth, Inc.	Insurance Brokers	4.22B
+GODN	Golden Star Acquisition Corporation	Shell Companies	86.86M
+GOEV	Canoo Inc.	Auto Manufacturers	277.37M
+GOGL	Golden Ocean Group Limited	Marine Shipping	1.44B
+GOGN	GoGreen Investments Corporation	Shell Companies	383.43M
+GOGO	Gogo Inc.	Telecom Services	1.98B
+GOL	Gol Linhas Aéreas Inteligentes S.A.	Airlines	5.38B
+GOLD	Barrick Gold Corporation	Gold	30.55B
+GOLF	Acushnet Holdings Corp.	Leisure	3.11B
+GOOD	Gladstone Commercial Corporation	REIT - Diversified	466.79M
+GOOG	Alphabet Inc.	Internet Content & Information	1,565.44B
+GOOGL	Alphabet Inc.	Internet Content & Information	1,569.25B
+GOOS	Canada Goose Holdings Inc.	Apparel Manufacturing	1.69B
+GORO	Gold Resource Corporation	Gold	72.53M
+GOSS	Gossamer Bio, Inc.	Biotechnology	130.28M
+GOTU	Gaotu Techedu Inc.	Education & Training Services	684.68M
+GOVX	GeoVax Labs, Inc.	Biotechnology	16.01M
+GP	GreenPower Motor Company Inc.	Auto Manufacturers	67.59M
+GPAC	Global Partner Acquisition Corp II	Shell Companies	120.26M
+GPC	Genuine Parts Company	Specialty Retail	20.99B
+GPCR	Structure Therapeutics Inc.	Biotechnology	1.22B
+GPI	Group 1 Automotive, Inc.	Auto & Truck Dealerships	3.20B
+GPK	Graphic Packaging Holding Company	Packaging & Containers	7.43B
+GPMT	Granite Point Mortgage Trust Inc.	REIT - Mortgage	249.90M
+GPN	Global Payments Inc.	Specialty Business Services	25.94B
+GPOR	Gulfport Energy Corporation	Oil & Gas E&P	1.81B
+GPP	Green Plains Partners LP	Oil & Gas Midstream	281.63M
+GPRE	Green Plains Inc.	Specialty Chemicals	1.77B
+GPRK	GeoPark Limited	Oil & Gas E&P	562.14M
+GPRO	GoPro, Inc.	Consumer Electronics	654.52M
+GPS	The Gap, Inc.	Apparel Retail	2.94B
+GRAB	Grab Holdings Limited	Software - Application	11.35B
+GRBK	Green Brick Partners, Inc.	Residential Construction	2.22B
+GRC	The Gorman-Rupp Company	Specialty Industrial Machinery	631.74M
+GRCL	Gracell Biotechnologies Inc.	Biotechnology	194.34M
+GRCY	Greencity Acquisition Corporation	Shell Companies	16.41M
+GREE	Greenidge Generation Holdings Inc.	Capital Markets	13.33M
+GRFS	Grifols, S.A.	Drug Manufacturers - General	7.06B
+GRFX	Graphex Group Limited	Other Industrial Metals & Mining	42.37M
+GRI	GRI Bio, Inc.	Biotechnology	17.60M
+GRIL	Muscle Maker, Inc.	Restaurants	37.12M
+GRIN	Grindrod Shipping Holdings Ltd.	Marine Shipping	145.46M
+GRMN	Garmin Ltd.	Scientific & Technical Instruments	19.80B
+GRNA	GreenLight Biosciences Holdings	Biotechnology	44.03M
+GRND	Grindr Inc.	Software - Application	1.06B
+GRNQ	Greenpro Capital Corp.	Consulting Services	14.81M
+GRNT	Granite Ridge Resources, Inc	Shell Companies	802.07M
+GROM	Grom Social Enterprises, Inc.	Internet Content & Information	2.81M
+GROV	Grove Collaborative Holdings, Inc.	Household & Personal Products	76.85M
+GROW	U.S. Global Investors, Inc.	Asset Management	45.02M
+GROY	Gold Royalty Corp.	Other Precious Metals & Mining	289.67M
+GRPH	Graphite Bio, Inc.	Biotechnology	168.50M
+GRPN	Groupon, Inc.	Internet Content & Information	168.08M
+GRRR	Gorilla Technology Group Inc.	Software - Infrastructure	126.42M
+GRTS	Gritstone bio, Inc.	Biotechnology	175.16M
+GRTX	Galera Therapeutics, Inc.	Biotechnology	134.51M
+GRVY	Gravity Co., Ltd.	Electronic Gaming & Multimedia	383.65M
+GRWG	GrowGeneration Corp.	Specialty Retail	230.42M
+GS	The Goldman Sachs Group, Inc.	Capital Markets	105.82B
+GSAT	Globalstar, Inc.	Telecom Services	2.02B
+GSBC	Great Southern Bancorp, Inc.	Banks - Regional	599.55M
+GSBD	Goldman Sachs BDC, Inc.	Asset Management	1.45B
+GSD	Global System Dynamics, Inc.	Shell Companies	137.78M
+GSHD	Goosehead Insurance, Inc	Insurance - Diversified	2.08B
+GSIT	GSI Technology, Inc.	Semiconductors	159.96M
+GSK	GSK plc	Drug Manufacturers - General	68.48B
+GSL	Global Ship Lease, Inc.	Marine Shipping	627.30M
+GSM	Ferroglobe PLC	Other Industrial Metals & Mining	883.50M
+GSMG	Glory Star New Media Group Holdings Limited	Advertising Agencies	38.16M
+GSQB	G Squared Ascend II Inc.	Shell Companies	187.15M
+GSRM	GSR II Meteora Acquisition Corp.	Shell Companies	409.15M
+GSUN	Golden Sun Education Group Limited	Education & Training Services	21.11M
+GT	The Goodyear Tire & Rubber Company	Auto Parts	3.77B
+GTAC	Global Technology Acquisition Corp. I	Shell Companies	73.81M
+GTBP	GT Biopharma, Inc.	Biotechnology	8.61M
+GTE	Gran Tierra Energy Inc.	Oil & Gas E&P	196.73M
+GTEC	Greenland Technologies Holding Corporation	Specialty Industrial Machinery	23.18M
+GTES	Gates Industrial Corporation plc	Specialty Industrial Machinery	3.42B
+GTH	Genetron Holdings Limited	Diagnostics & Research	81.54M
+GTHX	G1 Therapeutics, Inc.	Biotechnology	132.51M
+GTIM	Good Times Restaurants Inc.	Restaurants	34.93M
+GTLB	GitLab Inc.	Software - Application	5.55B
+GTLS	Chart Industries, Inc.	Specialty Industrial Machinery	4.73B
+GTN	Gray Television, Inc.	Broadcasting	680.48M
+GTN.A	Gray Television, Inc.	Broadcasting	661.51M
+GTX	Garrett Motion Inc.	Auto Parts	558.65M
+GTY	Getty Realty Corp.	REIT - Retail	1.67B
+GURE	Gulf Resources, Inc.	Specialty Chemicals	27.96M
+GVA	Granite Construction Incorporated	Engineering & Construction	1.65B
+GVP	GSE Systems, Inc.	Software - Application	9.83M
+GWAV	Greenwave Technology Solutions, Inc.	Waste Management	9.31M
+GWH	ESS Tech, Inc.	Electrical Equipment & Parts	182.92M
+GWRE	Guidewire Software, Inc.	Software - Application	6.73B
+GWRS	Global Water Resources, Inc.	Utilities - Regulated Water	286.93M
+GWW	W.W. Grainger, Inc.	Industrial Distribution	32.49B
+GXO	GXO Logistics, Inc.	Integrated Freight & Logistics	6.82B
+GYRO	Gyrodyne, LLC	Real Estate Services	13.43M
+H	Hyatt Hotels Corporation	Lodging	11.63B
+HA	Hawaiian Holdings, Inc.	Airlines	416.50M
+HAE	Haemonetics Corporation	Medical Instruments & Supplies	4.35B
+HAFC	Hanmi Financial Corporation	Banks - Regional	453.31M
+HAIA	Healthcare AI Acquisition Corp.	Shell Companies	284.08M
+HAIN	The Hain Celestial Group, Inc.	Packaged Foods	1.07B
+HAL	Halliburton Company	Oil & Gas Equipment & Services	27.09B
+HALL	Hallmark Financial Services, Inc.	Insurance - Property & Casualty	7.56M
+HALO	Halozyme Therapeutics, Inc.	Biotechnology	4.32B
+HARP	Harpoon Therapeutics, Inc.	Biotechnology	25.14M
+HAS	Hasbro, Inc.	Leisure	8.32B
+HASI	Hannon Armstrong Sustainable Infrastructure Capital, Inc.	REIT - Specialty	2.23B
+HAYN	Haynes International, Inc.	Metal Fabrication	563.55M
+HAYW	Hayward Holdings, Inc.	Electrical Equipment & Parts	2.28B
+HBAN	Huntington Bancshares Incorporated	Banks - Regional	15.27B
+HBB	Hamilton Beach Brands Holding Company	Furnishings, Fixtures & Appliances	135.04M
+HBCP	Home Bancorp, Inc.	Banks - Regional	261.76M
+HBI	Hanesbrands Inc.	Apparel Manufacturing	1.43B
+HBIO	Harvard Bioscience, Inc.	Medical Instruments & Supplies	245.97M
+HBM	Hudbay Minerals Inc.	Copper	1.17B
+HBNC	Horizon Bancorp, Inc.	Banks - Regional	403.88M
+HBT	HBT Financial, Inc.	Banks - Regional	573.85M
+HCA	HCA Healthcare, Inc.	Medical Care Facilities	73.79B
+HCAT	Health Catalyst, Inc.	Health Information Services	628.15M
+HCC	Warrior Met Coal, Inc.	Coking Coal	1.74B
+HCCI	Heritage-Crystal Clean, Inc	Waste Management	808.42M
+HCDI	Harbor Custom Development, Inc.	Real Estate - Development	3.48M
+HCI	HCI Group, Inc.	Insurance - Property & Casualty	455.82M
+HCKT	The Hackett Group, Inc.	Information Technology Services	527.61M
+HCM	HUTCHMED (China) Limited	Drug Manufacturers - Specialty & Generic	2.32B
+HCMA	HCM Acquisition Corp	Shell Companies	149.11M
+HCNE	JAWS Hurricane Acquisition Corporation	Shell Companies	404.80M
+HCP	HashiCorp, Inc.	Software - Infrastructure	6.67B
+HCSG	Healthcare Services Group, Inc.	Medical Care Facilities	1.01B
+HCTI	Healthcare Triangle, Inc.	Health Information Services	12.83M
+HCVI	Hennessy Capital Investment Corp. VI	Shell Companies	463.66M
+HCWB	HCW Biologics Inc.	Biotechnology	54.91M
+HD	The Home Depot, Inc.	Home Improvement Retail	289.96B
+HDB	HDFC Bank Limited	Banks - Regional	120.37B
+HDSN	Hudson Technologies, Inc.	Specialty Chemicals	400.25M
+HE	Hawaiian Electric Industries, Inc.	Utilities - Diversified	3.88B
+HEAR	Turtle Beach Corporation	Consumer Electronics	192.52M
+HEES	H&E Equipment Services, Inc.	Rental & Leasing Services	1.33B
+HEI	HEICO Corporation	Aerospace & Defense	18.60B
+HEI.A	HEICO Corporation	Aerospace & Defense	18.48B
+HELE	Helen of Troy Limited	Household & Personal Products	2.27B
+HEP	Holly Energy Partners, L.P.	Oil & Gas Midstream	2.18B
+HEPA	Hepion Pharmaceuticals, Inc.	Biotechnology	35.71M
+HEPS	D-Market Elektronik Hizmetler ve Ticaret A.S.	Internet Retail	355.04M
+HES	Hess Corporation	Oil & Gas E&P	40.11B
+HESM	Hess Midstream LP	Oil & Gas Midstream	6.95B
+HEXO	HEXO Corp.	Drug Manufacturers - Specialty & Generic	43.53M
+HFBL	Home Federal Bancorp, Inc. of Louisiana	Banks - Regional	41.54M
+HFFG	HF Foods Group Inc.	Food Distribution	194.17M
+HFWA	Heritage Financial Corporation	Banks - Regional	581.68M
+HGBL	Heritage Global Inc.	Capital Markets	131.01M
+HGEN	Humanigen, Inc.	Biotechnology	18.05M
+HGTY	Hagerty, Inc.	Insurance - Property & Casualty	5.23B
 
