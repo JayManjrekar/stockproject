@@ -15,6 +15,7 @@ Ritvik:
 <img width="437" alt="Screen Shot 2023-06-01 at 10 35 24 AM" src="https://github.com/JayManjrekar/stockproject/assets/89176673/cb8ce0d6-8a7b-41d9-9536-f27163f3914c">
 
 Responsive Web Design: Creating websites that adapt and look good on different devices and screen sizes using media queries and responsive design techniques. Front-End Frameworks: Working with popular frameworks like Bootstrap, Foundation, or Material-UI to build consistent and reusable UI components.
+Additionally, contributed in leading the discussion for utilizing an API to display current stocks, faciliating working on a page that displayed the highest and lowest stocks.
 
 Total hours worked: 5 hours
 
